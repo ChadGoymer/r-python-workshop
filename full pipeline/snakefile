@@ -1,0 +1,49 @@
+# GLOBAL VARIABLES
+LOCATIONS = ["UK-London", "UK-Bristol", "UK-Manchester"]
+
+DATES = ["20150701", "20150702", "20150703", "20150704", "20150705",
+         "20150706", "20150707", "20150708", "20150709", "20150710"]
+
+
+# This is the first rule run
+rule all:
+    input:
+        expand("plots/{location}.png", location=LOCATIONS)
+
+
+# Produce plots -----------------------------------
+rule plot:
+    input:
+        'data/aggregate/{location}.csv'
+    output:
+        'plots/{location}.png'
+    shell:
+        'Rscript plot_timeseries.R {input} {output}'
+
+
+# Aggregate --------------------------------------
+rule aggregate:
+    input:
+        expand("data/processed/{{location}}--{date}.csv", date=DATES)
+    output:
+        'data/aggregate/{location}.csv'
+    shell:
+        'python aggregate_all.py {input} {output}'
+
+
+# Processing --------------------------------------
+rule process:
+	input: 
+		'data/raw/{dataset}.json'
+	output:
+		'data/processed/{dataset}.csv'
+	shell:
+		'python process_one.py {input} {output}'
+
+
+# Download raw data ------------------------------
+rule download:
+    output:
+        'data/raw/{loc}--{date}.json'
+    shell:
+    	'python source.py {wildcards.loc} {wildcards.date}'

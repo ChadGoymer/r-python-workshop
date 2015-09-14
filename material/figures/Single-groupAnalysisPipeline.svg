@@ -1,0 +1,1679 @@
+<svg version="1.1" x="0" y="0" id="id5vy8zq" diagram-revision="-1" width="980" height="222.69999999999993" xmlns="http://www.w3.org/2000/svg" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="LD6E1FE0" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#D6E1FE;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#F6F4F9;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="LC2EEFF0" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#C2EEFF;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#E4F9FA;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="LACD3720" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ACD372;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#D8F5C4;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <g id="id5vys4v-ko34" transform="translate(5,10)">
+    <desc>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="0.75" y="0.75" width="92.79931640625" height="45.599761962890625" rx="20" fill="url(#LACD3720)" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="82.75" height="24.9" transform="translate(5.75,10.55)">
+      <tspan x="4.55" y="19.12272710800171" style="font-family:Arial;font-size:16px;fill:#000000;">Download</tspan>
+    </text>
+  </g>
+  <g id="id5vys4v-ko32" transform="translate(130,5)">
+    <desc>root/flowChart/document?version=2&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <path d="M 100.11212158203125 51.21875 L 100.11212158203125 0.75 L 0.75 0.75 L 0.75 51.21875 Q 25.215530395507813 67.03125 50.431060791015625 51.96875 Q 75.64659118652344 36.15625 99.36212158203125 51.96875 " fill="url(#LD6E1FE0)" stroke="#5573b7" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+      <image width="90.86212158203125" height="17.25" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFsAAAASCAYAAAA0YaI9AAAAHUlEQVR42u3BMQEAAADCoPVPbQwfoAAAAAAAAPgYGaoAAfbpqi0AAAAASUVORK5CYII=" x="0" y="0" transform="translate(5,17.8)"/>
+    </g>
+    <text x="0" y="0" width="90.85" height="21.25" transform="translate(5,17.8)">
+      <tspan x="8.2" y="16.345454406738284" style="font-family:Arial;font-size:14px;fill:#003370;">data_A1.raw</tspan>
+    </text>
+  </g>
+  <g id="id5vys4v-ko45" transform="translate(130,80)">
+    <desc>root/flowChart/document?version=2&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <path d="M 104.248779296875 51.21875 L 104.248779296875 0.75 L 0.75 0.75 L 0.75 51.21875 Q 26.24969482421875 67.03125 52.4993896484375 51.96875 Q 78.74908447265625 36.15625 103.498779296875 51.96875 " fill="url(#LD6E1FE0)" stroke="#5573b7" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+      <image width="94.998779296875" height="17.25" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAAASCAYAAAA9igJHAAAAHklEQVR42u3BMQEAAADCoPVPbQ0PoAAAAAAAAODRABrKAAGdUWBxAAAAAElFTkSuQmCC" x="0" y="0" transform="translate(5,17.8)"/>
+    </g>
+    <text x="0" y="0" width="94.95" height="21.25" transform="translate(5,17.8)">
+      <tspan x="10" y="16.345454406738284" style="font-family:Arial;font-size:14px;fill:#003370;">data_A2.raw</tspan>
+    </text>
+  </g>
+  <g id="id5vys4v-ko24" transform="translate(130,155)">
+    <desc>root/flowChart/document?version=2&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <path d="M 104.248779296875 51.21875 L 104.248779296875 0.75 L 0.75 0.75 L 0.75 51.21875 Q 26.24969482421875 67.03125 52.4993896484375 51.96875 Q 78.74908447265625 36.15625 103.498779296875 51.96875 " fill="url(#LD6E1FE0)" stroke="#5573b7" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+      <image width="94.998779296875" height="17.25" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAAASCAYAAAA9igJHAAAAHklEQVR42u3BMQEAAADCoPVPbQ0PoAAAAAAAAODRABrKAAGdUWBxAAAAAElFTkSuQmCC" x="0" y="0" transform="translate(5,17.8)"/>
+    </g>
+    <text x="0" y="0" width="94.95" height="21.25" transform="translate(5,17.8)">
+      <tspan x="10" y="16.345454406738284" style="font-family:Arial;font-size:14px;fill:#003370;">data_A3.raw</tspan>
+    </text>
+  </g>
+  <g id="id5vys4v-ko44" transform="translate(264.99999999999994,10)">
+    <desc>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="0.75" y="0.75" width="90.37339782714844" height="46.176549553871155" rx="20" fill="url(#LACD3720)" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="55.45" height="26.75" transform="translate(18.2,9.95)">
+      <tspan x="4.55" y="20.940908908843994" style="font-family:Arial;font-size:18px;fill:#000000;">Clean</tspan>
+    </text>
+  </g>
+  <g id="id5vys4v-ko42" transform="translate(264.99999999999994,85)">
+    <desc>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="0.75" y="0.75" width="90.37339782714844" height="46.176549553871155" rx="20" fill="url(#LACD3720)" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="55.45" height="26.75" transform="translate(18.2,9.95)">
+      <tspan x="4.55" y="20.890908908843993" style="font-family:Arial;font-size:18px;fill:#000000;">Clean</tspan>
+    </text>
+  </g>
+  <g id="id5vys4v-ko61" transform="translate(264.99999999999994,160)">
+    <desc>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="0.75" y="0.75" width="90.37339782714844" height="46.176549553871155" rx="20" fill="url(#LACD3720)" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="55.45" height="26.75" transform="translate(18.2,9.95)">
+      <tspan x="4.55" y="20.940908908843994" style="font-family:Arial;font-size:18px;fill:#000000;">Clean</tspan>
+    </text>
+  </g>
+  <g id="id5vys4v-ko43" transform="translate(525,80)">
+    <desc>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="0.75" y="0.75" width="113.62199401855469" height="60.15481209754944" rx="20" fill="url(#LACD3720)" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="93.65" height="26.75" transform="translate(10.7,16.95)">
+      <tspan x="4.55" y="20.890908908843993" style="font-family:Arial;font-size:18px;fill:#000000;">Aggregate</tspan>
+    </text>
+  </g>
+  <g id="id5vys4v-ko9" transform="translate(389.99999999999994,5)">
+    <desc>root/flowChart/document?version=2&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <path d="M 105.0697021484375 51.21875 L 105.0697021484375 0.75 L 0.75 0.75 L 0.75 51.21875 Q 26.454925537109375 67.03125 52.90985107421875 51.96875 Q 79.36477661132813 36.15625 104.3197021484375 51.96875 " fill="url(#LD6E1FE0)" stroke="#5573b7" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+      <image width="95.8197021484375" height="17.25" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAAASCAYAAACkctvyAAAAHUlEQVR42u3BAQ0AAADCoPdPbQ8HFAAAAAAAADwbGxIAAS+uoSEAAAAASUVORK5CYII=" x="0" y="0" transform="translate(5,17.8)"/>
+    </g>
+    <text x="0" y="0" width="95.8" height="21.25" transform="translate(5,17.8)">
+      <tspan x="5.45" y="16.345454406738284" style="font-family:Arial;font-size:14px;fill:#003370;">data_A1.clean</tspan>
+    </text>
+  </g>
+  <g id="id5vys4v-ko16" transform="translate(389.99999999999994,80)">
+    <desc>root/flowChart/document?version=2&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <path d="M 104.44256591796875 51.21875 L 104.44256591796875 0.75 L 0.75 0.75 L 0.75 51.21875 Q 26.298141479492188 67.03125 52.596282958984375 51.96875 Q 78.89442443847656 36.15625 103.69256591796875 51.96875 " fill="url(#LD6E1FE0)" stroke="#5573b7" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+      <image width="95.19256591796875" height="17.25" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAAASCAYAAACkctvyAAAAHUlEQVR42u3BAQ0AAADCoPdPbQ8HFAAAAAAAADwbGxIAAS+uoSEAAAAASUVORK5CYII=" x="0" y="0" transform="translate(5,17.8)"/>
+    </g>
+    <text x="0" y="0" width="95.15" height="21.25" transform="translate(5,17.8)">
+      <tspan x="5.45" y="16.345454406738284" style="font-family:Arial;font-size:14px;fill:#003370;">data_A2.clean</tspan>
+    </text>
+  </g>
+  <g id="id5vys4v-ko50" transform="translate(389.99999999999994,155)">
+    <desc>root/flowChart/document?version=2&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <path d="M 104.248779296875 51.21875 L 104.248779296875 0.75 L 0.75 0.75 L 0.75 51.21875 Q 26.24969482421875 67.03125 52.4993896484375 51.96875 Q 78.74908447265625 36.15625 103.498779296875 51.96875 " fill="url(#LD6E1FE0)" stroke="#5573b7" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+      <image width="94.998779296875" height="17.25" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAAASCAYAAAA9igJHAAAAHklEQVR42u3BMQEAAADCoPVPbQ0PoAAAAAAAAODRABrKAAGdUWBxAAAAAElFTkSuQmCC" x="0" y="0" transform="translate(5,17.8)"/>
+    </g>
+    <text x="0" y="0" width="94.95" height="21.25" transform="translate(5,17.8)">
+      <tspan x="5.45" y="16.345454406738284" style="font-family:Arial;font-size:14px;fill:#003370;">data_A3.clean</tspan>
+    </text>
+  </g>
+  <g id="id5vys4v-ko33" transform="translate(785,80)">
+    <desc>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="0.75" y="0.75" width="70.9393367767334" height="55.49999928474426" rx="20" fill="url(#LC2EEFF0)" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="40.9" height="26.75" transform="translate(15.75,14.6)">
+      <tspan x="4.55" y="20.890908908843993" style="font-family:Arial;font-size:18px;fill:#000000;">Plot</tspan>
+    </text>
+  </g>
+  <g id="id5vys4v-ko41" transform="translate(660,80)">
+    <desc>root/flowChart/document?version=2&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <path d="M 100.11212158203125 51.21875 L 100.11212158203125 0.75 L 0.75 0.75 L 0.75 51.21875 Q 25.215530395507813 67.03125 50.431060791015625 51.96875 Q 75.64659118652344 36.15625 99.36212158203125 51.96875 " fill="url(#LD6E1FE0)" stroke="#5573b7" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+      <image width="90.86212158203125" height="17.25" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFsAAAASCAYAAAA0YaI9AAAAHUlEQVR42u3BMQEAAADCoPVPbQwfoAAAAAAAAPgYGaoAAfbpqi0AAAAASUVORK5CYII=" x="0" y="0" transform="translate(5,17.8)"/>
+    </g>
+    <text x="0" y="0" width="90.85" height="21.25" transform="translate(5,17.8)">
+      <tspan x="12.75" y="16.345454406738284" style="font-family:Arial;font-size:14px;fill:#003370;">data_A.csv</tspan>
+    </text>
+  </g>
+  <g id="id5vys4v-ko31" transform="translate(875,80)">
+    <desc>root/flowChart/document?version=2&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <path d="M 100.11212158203125 51.21875 L 100.11212158203125 0.75 L 0.75 0.75 L 0.75 51.21875 Q 25.215530395507813 67.03125 50.431060791015625 51.96875 Q 75.64659118652344 36.15625 99.36212158203125 51.96875 " fill="url(#LD6E1FE0)" stroke="#5573b7" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+      <image width="90.86212158203125" height="17.25" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFsAAAASCAYAAAA0YaI9AAAAHUlEQVR42u3BMQEAAADCoPVPbQwfoAAAAAAAAPgYGaoAAfbpqi0AAAAASUVORK5CYII=" x="0" y="0" transform="translate(5,17.8)"/>
+    </g>
+    <text x="0" y="0" width="90.85" height="21.25" transform="translate(5,17.8)">
+      <tspan x="11.8" y="16.345454406738284" style="font-family:Arial;font-size:14px;fill:#003370;">data_A.png</tspan>
+    </text>
+  </g>
+  <g id="id5vys4v-ko4" transform="translate(-257.05,-522.35)">
+    <g id="graphics">
+      <path d="M 487.05 557.35 L 522.05 557.35 " fill="none" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g id="id5vys4v-ko3" transform="translate(-257.05,-522.35)">
+    <g id="graphics">
+      <path d="M 492.05 632.35 L 522.05 632.35 " fill="none" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g id="id5vys4v-ko35" transform="translate(-257.05,-522.35)">
+    <g id="graphics">
+      <path d="M 492.05 707.35 L 522.05 707.35 " fill="none" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g id="id5vys4v-ko59" transform="translate(-257.05,-522.35)">
+    <g id="graphics">
+      <path d="M 612.05 707.35 L 647.05 707.35 " fill="none" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g id="id5vys4v-ko26" transform="translate(-257.05,-522.35)">
+    <g id="graphics">
+      <path d="M 612.05 632.35 L 647.05 632.35 " fill="none" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g id="id5vys4v-ko13" transform="translate(-257.05,-522.35)">
+    <g id="graphics">
+      <path d="M 612.05 557.35 L 647.05 557.35 " fill="none" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g id="id5vys4v-ko25" transform="translate(-257.05,-522.35)">
+    <g id="graphics">
+      <path d="M 752.05 557.35 L 766.1862655147429 557.35 L 766.6701364824848 632.35 L 782.05 632.35 " fill="none" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g id="id5vys4v-ko29" transform="translate(-257.05,-522.35)">
+    <g id="graphics">
+      <path d="M 752.05 632.35 L 782.05 632.35 " fill="none" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g id="id5vys4v-ko38" transform="translate(-257.05,-522.35)">
+    <g id="graphics">
+      <path d="M 752.05 707.35 L 767.3152977728074 707.35 L 766.6701364824848 632.35 L 782.05 632.35 " fill="none" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g id="id5vys4v-ko2" transform="translate(-257.05,-522.35)">
+    <g id="graphics">
+      <path d="M 897.05 632.35 L 917.05 632.35 " fill="none" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g id="id5vys4v-ko39" transform="translate(-257.05,-522.35)">
+    <g id="graphics">
+      <path d="M 1017.05 632.35 L 1042.05 632.35 " fill="none" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g id="id5vys4v-ko56" transform="translate(-257.05,-522.35)">
+    <g id="graphics">
+      <path d="M 1112.05 632.35 L 1132.05 632.35 " fill="none" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g id="id5vys4v-ko57" transform="translate(-257.05,-522.35)">
+    <g id="graphics">
+      <path d="M 357.05 557.35 L 387.05 557.35 " fill="none" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g id="id5vys4v-ko28" transform="translate(5,85)">
+    <desc>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="0.75" y="0.75" width="92.79931640625" height="45.599761962890625" rx="20" fill="url(#LACD3720)" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="82.75" height="24.9" transform="translate(5.75,10.55)">
+      <tspan x="4.55" y="19.12272710800171" style="font-family:Arial;font-size:16px;fill:#000000;">Download</tspan>
+    </text>
+  </g>
+  <g id="id5vys4v-ko40" transform="translate(5,160)">
+    <desc>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="0.75" y="0.75" width="92.79931640625" height="45.599761962890625" rx="20" fill="url(#LACD3720)" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="82.75" height="24.9" transform="translate(5.75,10.55)">
+      <tspan x="4.55" y="19.12272710800171" style="font-family:Arial;font-size:16px;fill:#000000;">Download</tspan>
+    </text>
+  </g>
+  <g id="id5vys4v-ko51" transform="translate(-257.05,-522.35)">
+    <g id="graphics">
+      <path d="M 357.05 632.35 L 387.05 632.35 " fill="none" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g id="id5vys4v-ko1" transform="translate(-257.05,-522.35)">
+    <g id="graphics">
+      <path d="M 357.05 707.35 L 387.05 707.35 " fill="none" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+  </g>
+  <creately-doc sync="false" format-version="1.0" updated-user="Christopher Musselle" owner-name="Christopher Musselle" id="id5vy8zq" revision="0" projectid="root">
+    <viewHash/>
+    <creator/>
+    <save-comments/>
+    <dtLastEdit>LAST_EDIT_AUTO</dtLastEdit>
+    <resources/>
+    <objects>
+      <object id="id5vys4v-ko42" name="" type="NORMAL" locked="false" visible="true" zorder="5" model-type="NORMAL">
+        <text wrapping="true" text-rotation="NaN" position="CENTRE">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="2" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="6" under-line="false" size="18" italic="false" align="center" kerning="false" left-margin="0" begin-index="0" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content>Clean</content>
+        </text>
+        <group-id/>
+        <kobject-def-id>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <libraries/>
+        <dimension x="522.05" width="91.85" y="607.35" height="47.7" scale-x="0.5740624999999999" scale-y="0.53" angle="0">
+          <matrix b="0" a="0.5742087364196777" tx="0" d="0.5297394394874573" ty="0" c="-1.0764211171077654e-20"/>
+          <default-bounds x="0" width="160" y="0" height="90"/>
+        </dimension>
+        <children/>
+        <collapse collapsed-y-pos="NaN" collapsed="false" expanded-width="NaN" collapsed-height="NaN" collapsed-width="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" expanded-height="NaN" expanded-x-pos="NaN"/>
+        <data-items>
+          <data-item type="" name="notes" value=""/>
+          <data-item type="" name="isConnected" value="0"/>
+          <data-item type="" name="DiagramLinkURL" value=""/>
+          <data-item type="" name="cornerradius" value="40"/>
+        </data-items>
+        <style fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1" fill-color="11326322" fill="true" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <container-id/>
+        <comments/>
+      </object>
+      <object id="id5vys4v-ko41" name="" type="NORMAL" locked="false" visible="true" zorder="12" model-type="NORMAL">
+        <text wrapping="true" text-rotation="NaN" position="e_name">
+          <text-formats>
+            <text-format color="13168" indent="0" order="0" leading="2" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="10" under-line="false" size="14" italic="false" align="center" kerning="false" left-margin="0" begin-index="0" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content>data_A.csv</content>
+        </text>
+        <group-id/>
+        <kobject-def-id>root/flowChart/document?version=2&amp;author=Cinergix</kobject-def-id>
+        <libraries/>
+        <dimension x="917.05" width="100.86212158203125" y="602.35" height="60.25" scale-x="1.0086212158203125" scale-y="1" angle="0">
+          <matrix b="0" a="1.0086212158203125" tx="0" d="1" ty="0" c="0"/>
+          <default-bounds x="0" width="100" y="0" height="60.25"/>
+        </dimension>
+        <children/>
+        <collapse collapsed-y-pos="NaN" collapsed="false" expanded-width="NaN" collapsed-height="NaN" collapsed-width="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" expanded-height="NaN" expanded-x-pos="NaN"/>
+        <data-items>
+          <data-item type="" name="Notes" value=""/>
+          <data-item type="" name="isConnected" value="0"/>
+          <data-item type="" name="DiagramLinkURL" value=""/>
+          <data-item type="" name="started" value="0"/>
+        </data-items>
+        <style fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1" fill-color="14082558" fill="true" line-style="" line-thickness="1.5" line-color="5600183"/>
+        <container-id/>
+        <comments/>
+      </object>
+      <object id="id5vys4v-ko32" name="" type="NORMAL" locked="false" visible="true" zorder="1" model-type="NORMAL">
+        <text wrapping="true" text-rotation="NaN" position="e_name">
+          <text-formats>
+            <text-format color="13168" indent="0" order="0" leading="2" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="12" under-line="false" size="14" italic="false" align="center" kerning="false" left-margin="0" begin-index="0" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content>data_A1.raw</content>
+        </text>
+        <group-id/>
+        <kobject-def-id>root/flowChart/document?version=2&amp;author=Cinergix</kobject-def-id>
+        <libraries/>
+        <dimension x="387.05" width="100.86212158203125" y="527.35" height="60.25" scale-x="1.0086212158203125" scale-y="1" angle="0">
+          <matrix b="0" a="1.0086212158203125" tx="0" d="1" ty="0" c="0"/>
+          <default-bounds x="0" width="100" y="0" height="60.25"/>
+        </dimension>
+        <children/>
+        <collapse collapsed-y-pos="NaN" collapsed="false" expanded-width="NaN" collapsed-height="NaN" collapsed-width="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" expanded-height="NaN" expanded-x-pos="NaN"/>
+        <data-items>
+          <data-item type="" name="Notes" value=""/>
+          <data-item type="" name="isConnected" value="0"/>
+          <data-item type="" name="DiagramLinkURL" value=""/>
+          <data-item type="" name="started" value="0"/>
+        </data-items>
+        <style fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1" fill-color="14082558" fill="true" line-style="" line-thickness="1.5" line-color="5600183"/>
+        <container-id/>
+        <comments/>
+      </object>
+      <object id="id5vys4v-ko24" name="" type="NORMAL" locked="false" visible="true" zorder="3" model-type="NORMAL">
+        <text wrapping="true" text-rotation="NaN" position="e_name">
+          <text-formats>
+            <text-format color="13168" indent="0" order="0" leading="2" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="12" under-line="false" size="14" italic="false" align="center" kerning="true" left-margin="0" begin-index="0" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content>data_A3.raw</content>
+        </text>
+        <group-id/>
+        <kobject-def-id>root/flowChart/document?version=2&amp;author=Cinergix</kobject-def-id>
+        <libraries/>
+        <dimension x="387.05" width="104.998779296875" y="677.35" height="60.25" scale-x="1.04998779296875" scale-y="1" angle="0">
+          <matrix b="0" a="1.04998779296875" tx="0" d="1" ty="0" c="0"/>
+          <default-bounds x="0" width="100" y="0" height="60.25"/>
+        </dimension>
+        <children/>
+        <collapse collapsed-y-pos="NaN" collapsed="false" expanded-width="NaN" collapsed-height="NaN" collapsed-width="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" expanded-height="NaN" expanded-x-pos="NaN"/>
+        <data-items>
+          <data-item type="" name="Notes" value=""/>
+          <data-item type="" name="isConnected" value="0"/>
+          <data-item type="" name="DiagramLinkURL" value=""/>
+          <data-item type="" name="started" value="0"/>
+        </data-items>
+        <style fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1" fill-color="14082558" fill="true" line-style="" line-thickness="1.5" line-color="5600183"/>
+        <container-id/>
+        <comments/>
+      </object>
+      <object id="id5vys4v-ko34" name="" type="NORMAL" locked="false" visible="true" zorder="0" model-type="NORMAL">
+        <text wrapping="true" text-rotation="NaN" position="CENTRE">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="2" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="9" under-line="false" size="16" italic="false" align="center" kerning="false" left-margin="0" begin-index="0" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content>Download(~!nl!~)</content>
+        </text>
+        <group-id/>
+        <kobject-def-id>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <libraries/>
+        <dimension x="262.05" width="94.3" y="532.35" height="47.1" scale-x="0.589375" scale-y="0.5233333333333333" angle="-5.232018138467518e-15">
+          <matrix b="0" a="0.5893707275390625" tx="0" d="0.5233306884765625" ty="0" c="0"/>
+          <default-bounds x="0" width="160" y="0" height="90"/>
+        </dimension>
+        <children/>
+        <collapse collapsed-y-pos="NaN" collapsed="false" expanded-width="NaN" collapsed-height="NaN" collapsed-width="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" expanded-height="NaN" expanded-x-pos="NaN"/>
+        <data-items>
+          <data-item type="" name="notes" value=""/>
+          <data-item type="" name="isConnected" value="0"/>
+          <data-item type="" name="DiagramLinkURL" value=""/>
+          <data-item type="" name="cornerradius" value="40"/>
+        </data-items>
+        <style fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1" fill-color="11326322" fill="true" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <container-id/>
+        <comments/>
+      </object>
+      <object id="id5vys4v-ko31" name="" type="NORMAL" locked="false" visible="true" zorder="13" model-type="NORMAL">
+        <text wrapping="true" text-rotation="NaN" position="e_name">
+          <text-formats>
+            <text-format color="13168" indent="0" order="0" leading="2" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="11" under-line="false" size="14" italic="false" align="center" kerning="false" left-margin="0" begin-index="0" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content>data_A.png(~!nl!~)</content>
+        </text>
+        <group-id/>
+        <kobject-def-id>root/flowChart/document?version=2&amp;author=Cinergix</kobject-def-id>
+        <libraries/>
+        <dimension x="1132.05" width="100.86212158203125" y="602.35" height="60.25" scale-x="1.0086212158203125" scale-y="1" angle="0">
+          <matrix b="0" a="1.0086212158203125" tx="0" d="1" ty="0" c="0"/>
+          <default-bounds x="0" width="100" y="0" height="60.25"/>
+        </dimension>
+        <children/>
+        <collapse collapsed-y-pos="NaN" collapsed="false" expanded-width="NaN" collapsed-height="NaN" collapsed-width="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" expanded-height="NaN" expanded-x-pos="NaN"/>
+        <data-items>
+          <data-item type="" name="Notes" value=""/>
+          <data-item type="" name="isConnected" value="0"/>
+          <data-item type="" name="DiagramLinkURL" value=""/>
+          <data-item type="" name="started" value="0"/>
+        </data-items>
+        <style fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1" fill-color="14082558" fill="true" line-style="" line-thickness="1.5" line-color="5600183"/>
+        <container-id/>
+        <comments/>
+      </object>
+      <object id="id5vys4v-ko43" name="" type="NORMAL" locked="false" visible="true" zorder="7" model-type="NORMAL">
+        <text wrapping="true" text-rotation="NaN" position="CENTRE">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="2" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="10" under-line="false" size="18" italic="false" align="center" kerning="false" left-margin="0" begin-index="0" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content>Aggregate(~!nl!~)</content>
+        </text>
+        <group-id/>
+        <kobject-def-id>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <libraries/>
+        <dimension x="782.05" width="115.1" y="602.35" height="61.65" scale-x="0.719375" scale-y="0.6849999999999999" angle="0">
+          <matrix b="0" a="0.7195124626159668" tx="0" d="0.6850534677505493" ty="0" c="-2.3694362329965883e-16"/>
+          <default-bounds x="0" width="160" y="0" height="90"/>
+        </dimension>
+        <children/>
+        <collapse collapsed-y-pos="NaN" collapsed="false" expanded-width="NaN" collapsed-height="NaN" collapsed-width="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" expanded-height="NaN" expanded-x-pos="NaN"/>
+        <data-items>
+          <data-item type="" name="notes" value=""/>
+          <data-item type="" name="isConnected" value="0"/>
+          <data-item type="" name="DiagramLinkURL" value=""/>
+          <data-item type="" name="cornerradius" value="40"/>
+        </data-items>
+        <style fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1" fill-color="11326322" fill="true" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <container-id/>
+        <comments/>
+      </object>
+      <object id="id5vys4v-ko44" name="" type="NORMAL" locked="false" visible="true" zorder="4" model-type="NORMAL">
+        <text wrapping="true" text-rotation="NaN" position="CENTRE">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="2" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="6" under-line="false" size="18" italic="false" align="center" kerning="false" left-margin="0" begin-index="0" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content>Clean</content>
+        </text>
+        <group-id/>
+        <kobject-def-id>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <libraries/>
+        <dimension x="522.05" width="91.85" y="532.35" height="47.7" scale-x="0.5740624999999999" scale-y="0.53" angle="0">
+          <matrix b="0" a="0.5742087364196777" tx="0" d="0.5297394394874573" ty="0" c="-1.0764211171077654e-20"/>
+          <default-bounds x="0" width="160" y="0" height="90"/>
+        </dimension>
+        <children/>
+        <collapse collapsed-y-pos="NaN" collapsed="false" expanded-width="NaN" collapsed-height="NaN" collapsed-width="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" expanded-height="NaN" expanded-x-pos="NaN"/>
+        <data-items>
+          <data-item type="" name="notes" value=""/>
+          <data-item type="" name="isConnected" value="0"/>
+          <data-item type="" name="DiagramLinkURL" value=""/>
+          <data-item type="" name="cornerradius" value="40"/>
+        </data-items>
+        <style fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1" fill-color="11326322" fill="true" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <container-id/>
+        <comments/>
+      </object>
+      <object id="id5vys4v-ko45" name="" type="NORMAL" locked="false" visible="true" zorder="2" model-type="NORMAL">
+        <text wrapping="true" text-rotation="NaN" position="e_name">
+          <text-formats>
+            <text-format color="13168" indent="0" order="0" leading="2" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="12" under-line="false" size="14" italic="false" align="center" kerning="true" left-margin="0" begin-index="0" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content>data_A2.raw</content>
+        </text>
+        <group-id/>
+        <kobject-def-id>root/flowChart/document?version=2&amp;author=Cinergix</kobject-def-id>
+        <libraries/>
+        <dimension x="387.05" width="104.998779296875" y="602.35" height="60.25" scale-x="1.04998779296875" scale-y="1" angle="0">
+          <matrix b="0" a="1.04998779296875" tx="0" d="1" ty="0" c="0"/>
+          <default-bounds x="0" width="100" y="0" height="60.25"/>
+        </dimension>
+        <children/>
+        <collapse collapsed-y-pos="NaN" collapsed="false" expanded-width="NaN" collapsed-height="NaN" collapsed-width="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" expanded-height="NaN" expanded-x-pos="NaN"/>
+        <data-items>
+          <data-item type="" name="Notes" value=""/>
+          <data-item type="" name="isConnected" value="0"/>
+          <data-item type="" name="DiagramLinkURL" value=""/>
+          <data-item type="" name="started" value="0"/>
+        </data-items>
+        <style fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1" fill-color="14082558" fill="true" line-style="" line-thickness="1.5" line-color="5600183"/>
+        <container-id/>
+        <comments/>
+      </object>
+      <object id="id5vys4v-ko16" name="" type="NORMAL" locked="false" visible="true" zorder="9" model-type="NORMAL">
+        <text wrapping="true" text-rotation="NaN" position="e_name">
+          <text-formats>
+            <text-format color="13168" indent="0" order="0" leading="2" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="14" under-line="false" size="14" italic="false" align="center" kerning="true" left-margin="0" begin-index="0" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content>data_A2.clean</content>
+        </text>
+        <group-id/>
+        <kobject-def-id>root/flowChart/document?version=2&amp;author=Cinergix</kobject-def-id>
+        <libraries/>
+        <dimension x="647.05" width="105.19256591796875" y="602.35" height="60.25" scale-x="1.0519256591796875" scale-y="1" angle="0">
+          <matrix b="0" a="1.0519256591796875" tx="0" d="1" ty="0" c="0"/>
+          <default-bounds x="0" width="100" y="0" height="60.25"/>
+        </dimension>
+        <children/>
+        <collapse collapsed-y-pos="NaN" collapsed="false" expanded-width="NaN" collapsed-height="NaN" collapsed-width="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" expanded-height="NaN" expanded-x-pos="NaN"/>
+        <data-items>
+          <data-item type="" name="Notes" value=""/>
+          <data-item type="" name="isConnected" value="0"/>
+          <data-item type="" name="DiagramLinkURL" value=""/>
+          <data-item type="" name="started" value="0"/>
+        </data-items>
+        <style fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1" fill-color="14082558" fill="true" line-style="" line-thickness="1.5" line-color="5600183"/>
+        <container-id/>
+        <comments/>
+      </object>
+      <object id="id5vys4v-ko40" name="" type="NORMAL" locked="false" visible="true" zorder="28" model-type="NORMAL">
+        <text wrapping="true" text-rotation="NaN" position="CENTRE">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="2" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="9" under-line="false" size="16" italic="false" align="center" kerning="false" left-margin="0" begin-index="0" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content>Download(~!nl!~)</content>
+        </text>
+        <group-id/>
+        <kobject-def-id>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <libraries/>
+        <dimension x="262.05" width="94.3" y="682.35" height="47.1" scale-x="0.589375" scale-y="0.5233333333333333" angle="-5.232018138467518e-15">
+          <matrix b="0" a="0.5893707275390625" tx="0" d="0.5233306884765625" ty="0" c="0"/>
+          <default-bounds x="0" width="160" y="0" height="90"/>
+        </dimension>
+        <children/>
+        <collapse collapsed-y-pos="NaN" collapsed="false" expanded-width="NaN" collapsed-height="NaN" collapsed-width="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" expanded-height="NaN" expanded-x-pos="NaN"/>
+        <data-items>
+          <data-item type="" name="notes" value=""/>
+          <data-item type="" name="isConnected" value="0"/>
+          <data-item type="" name="DiagramLinkURL" value=""/>
+          <data-item type="" name="cornerradius" value="40"/>
+        </data-items>
+        <style fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1" fill-color="11326322" fill="true" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <container-id/>
+        <comments/>
+      </object>
+      <object id="id5vys4v-ko61" name="" type="NORMAL" locked="false" visible="true" zorder="6" model-type="NORMAL">
+        <text wrapping="true" text-rotation="NaN" position="CENTRE">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="2" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="6" under-line="false" size="18" italic="false" align="center" kerning="false" left-margin="0" begin-index="0" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content>Clean</content>
+        </text>
+        <group-id/>
+        <kobject-def-id>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <libraries/>
+        <dimension x="522.05" width="91.85" y="682.35" height="47.7" scale-x="0.5740624999999999" scale-y="0.53" angle="0">
+          <matrix b="0" a="0.5742087364196777" tx="0" d="0.5297394394874573" ty="0" c="-1.0764211171077654e-20"/>
+          <default-bounds x="0" width="160" y="0" height="90"/>
+        </dimension>
+        <children/>
+        <collapse collapsed-y-pos="NaN" collapsed="false" expanded-width="NaN" collapsed-height="NaN" collapsed-width="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" expanded-height="NaN" expanded-x-pos="NaN"/>
+        <data-items>
+          <data-item type="" name="notes" value=""/>
+          <data-item type="" name="isConnected" value="0"/>
+          <data-item type="" name="DiagramLinkURL" value=""/>
+          <data-item type="" name="cornerradius" value="40"/>
+        </data-items>
+        <style fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1" fill-color="11326322" fill="true" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <container-id/>
+        <comments/>
+      </object>
+      <object id="id5vys4v-ko9" name="" type="NORMAL" locked="false" visible="true" zorder="8" model-type="NORMAL">
+        <text wrapping="true" text-rotation="NaN" position="e_name">
+          <text-formats>
+            <text-format color="13168" indent="0" order="0" leading="2" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="14" under-line="false" size="14" italic="false" align="center" kerning="true" left-margin="0" begin-index="0" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content>data_A1.clean</content>
+        </text>
+        <group-id/>
+        <kobject-def-id>root/flowChart/document?version=2&amp;author=Cinergix</kobject-def-id>
+        <libraries/>
+        <dimension x="647.05" width="105.8197021484375" y="527.35" height="60.25" scale-x="1.058197021484375" scale-y="1" angle="0">
+          <matrix b="0" a="1.058197021484375" tx="0" d="1" ty="0" c="0"/>
+          <default-bounds x="0" width="100" y="0" height="60.25"/>
+        </dimension>
+        <children/>
+        <collapse collapsed-y-pos="NaN" collapsed="false" expanded-width="NaN" collapsed-height="NaN" collapsed-width="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" expanded-height="NaN" expanded-x-pos="NaN"/>
+        <data-items>
+          <data-item type="" name="Notes" value=""/>
+          <data-item type="" name="isConnected" value="0"/>
+          <data-item type="" name="DiagramLinkURL" value=""/>
+          <data-item type="" name="started" value="0"/>
+        </data-items>
+        <style fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1" fill-color="14082558" fill="true" line-style="" line-thickness="1.5" line-color="5600183"/>
+        <container-id/>
+        <comments/>
+      </object>
+      <object id="id5vys4v-ko28" name="" type="NORMAL" locked="false" visible="true" zorder="27" model-type="NORMAL">
+        <text wrapping="true" text-rotation="NaN" position="CENTRE">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="2" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="9" under-line="false" size="16" italic="false" align="center" kerning="false" left-margin="0" begin-index="0" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content>Download(~!nl!~)</content>
+        </text>
+        <group-id/>
+        <kobject-def-id>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <libraries/>
+        <dimension x="262.05" width="94.3" y="607.35" height="47.1" scale-x="0.589375" scale-y="0.5233333333333333" angle="-5.232018138467518e-15">
+          <matrix b="0" a="0.5893707275390625" tx="0" d="0.5233306884765625" ty="0" c="0"/>
+          <default-bounds x="0" width="160" y="0" height="90"/>
+        </dimension>
+        <children/>
+        <collapse collapsed-y-pos="NaN" collapsed="false" expanded-width="NaN" collapsed-height="NaN" collapsed-width="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" expanded-height="NaN" expanded-x-pos="NaN"/>
+        <data-items>
+          <data-item type="" name="notes" value=""/>
+          <data-item type="" name="isConnected" value="0"/>
+          <data-item type="" name="DiagramLinkURL" value=""/>
+          <data-item type="" name="cornerradius" value="40"/>
+        </data-items>
+        <style fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1" fill-color="11326322" fill="true" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <container-id/>
+        <comments/>
+      </object>
+      <object id="id5vys4v-ko33" name="" type="NORMAL" locked="false" visible="true" zorder="11" model-type="NORMAL">
+        <text wrapping="true" text-rotation="NaN" position="CENTRE">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="2" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="4" under-line="false" size="18" italic="false" align="center" kerning="false" left-margin="0" begin-index="0" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content>Plot</content>
+        </text>
+        <group-id/>
+        <kobject-def-id>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <libraries/>
+        <dimension x="1042.05" width="72.45" y="602.35" height="57" scale-x="0.4528125" scale-y="0.6333333333333333" angle="0">
+          <matrix b="0" a="0.45274585485458374" tx="0" d="0.6333333253860474" ty="0" c="1.5800371280091447e-16"/>
+          <default-bounds x="0" width="160" y="0" height="90"/>
+        </dimension>
+        <children/>
+        <collapse collapsed-y-pos="NaN" collapsed="false" expanded-width="NaN" collapsed-height="NaN" collapsed-width="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" expanded-height="NaN" expanded-x-pos="NaN"/>
+        <data-items>
+          <data-item type="" name="notes" value=""/>
+          <data-item type="" name="isConnected" value="0"/>
+          <data-item type="" name="DiagramLinkURL" value=""/>
+          <data-item type="" name="cornerradius" value="40"/>
+        </data-items>
+        <style fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1" fill-color="12775167" fill="true" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <container-id/>
+        <comments/>
+      </object>
+      <object id="id5vys4v-ko50" name="" type="NORMAL" locked="false" visible="true" zorder="10" model-type="NORMAL">
+        <text wrapping="true" text-rotation="NaN" position="e_name">
+          <text-formats>
+            <text-format color="13168" indent="0" order="0" leading="2" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="14" under-line="false" size="14" italic="false" align="center" kerning="true" left-margin="0" begin-index="0" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content>data_A3.clean</content>
+        </text>
+        <group-id/>
+        <kobject-def-id>root/flowChart/document?version=2&amp;author=Cinergix</kobject-def-id>
+        <libraries/>
+        <dimension x="647.05" width="104.998779296875" y="677.35" height="60.25" scale-x="1.04998779296875" scale-y="1" angle="0">
+          <matrix b="0" a="1.04998779296875" tx="0" d="1" ty="0" c="0"/>
+          <default-bounds x="0" width="100" y="0" height="60.25"/>
+        </dimension>
+        <children/>
+        <collapse collapsed-y-pos="NaN" collapsed="false" expanded-width="NaN" collapsed-height="NaN" collapsed-width="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" expanded-height="NaN" expanded-x-pos="NaN"/>
+        <data-items>
+          <data-item type="" name="Notes" value=""/>
+          <data-item type="" name="isConnected" value="0"/>
+          <data-item type="" name="DiagramLinkURL" value=""/>
+          <data-item type="" name="started" value="0"/>
+        </data-items>
+        <style fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1" fill-color="14082558" fill="true" line-style="" line-thickness="1.5" line-color="5600183"/>
+        <container-id/>
+        <comments/>
+      </object>
+    </objects>
+    <editHash/>
+    <canvas-width>1500</canvas-width>
+    <published>false</published>
+    <source-tool/>
+    <inSync>false</inSync>
+    <save-type/>
+    <date-updated>Mon Aug 10 2015 01:19:47 PM</date-updated>
+    <description/>
+    <app-version/>
+    <diagramTypeId>block-diagram</diagramTypeId>
+    <connectors>
+      <connector id="id5vys4v-ko1" show-obj-two-img="false" show-obj-one-img="false" end-point-one-y="707.35" zorder="30" end-point-one-x="357.05" end-point-two-x="387.05" bi-directional="false" end-point-two-y="707.35" model-type="CONNECTOR">
+        <group-id/>
+        <anchorsCustomized>false</anchorsCustomized>
+        <connection-name/>
+        <compatibleConnDefs>
+          <String>Just a line</String>
+        </compatibleConnDefs>
+        <anchor-points/>
+        <connection-desc/>
+        <fromIconSource/>
+        <anchPntIDObjTwo>flowPort_4</anchPntIDObjTwo>
+        <anchPntIDObjOne/>
+        <comments/>
+        <text wrapping="false" text-rotation="NaN" position="CONNECTOR_PATH_CENTER">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content/>
+        </text>
+        <drawStyle>0</drawStyle>
+        <connection-def-id>Just a line</connection-def-id>
+        <toIconSource/>
+        <object-two-id>id5vys4v-ko24</object-two-id>
+        <object-one-id>id5vys4v-ko40</object-one-id>
+        <text-data-list>
+          <line-text isPrimary="true" position="" id="id5vm241-tf46" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5vm241-tf46" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+        </text-data-list>
+        <isLocked>false</isLocked>
+        <style alpha="NaN" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <ownerDiagID>id5vy8zq</ownerDiagID>
+        <isVisible>false</isVisible>
+      </connector>
+      <connector id="id5vys4v-ko29" show-obj-two-img="false" show-obj-one-img="false" end-point-one-y="632.35" zorder="21" end-point-one-x="752.05" end-point-two-x="782.05" bi-directional="false" end-point-two-y="632.35" model-type="CONNECTOR">
+        <group-id/>
+        <anchorsCustomized>false</anchorsCustomized>
+        <connection-name/>
+        <compatibleConnDefs>
+          <String>Just a line</String>
+        </compatibleConnDefs>
+        <anchor-points/>
+        <connection-desc/>
+        <fromIconSource/>
+        <anchPntIDObjTwo>flowPort_4</anchPntIDObjTwo>
+        <anchPntIDObjOne/>
+        <comments/>
+        <text wrapping="false" text-rotation="NaN" position="CONNECTOR_PATH_CENTER">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content/>
+        </text>
+        <drawStyle>0</drawStyle>
+        <connection-def-id>Just a line</connection-def-id>
+        <toIconSource/>
+        <object-two-id>id5vys4v-ko43</object-two-id>
+        <object-one-id>id5vys4v-ko16</object-one-id>
+        <text-data-list>
+          <line-text isPrimary="true" position="" id="id5twfti-tf47" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5twfti-tf47" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5twfti-tf47" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+        </text-data-list>
+        <isLocked>false</isLocked>
+        <style alpha="NaN" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <ownerDiagID>id5vy8zq</ownerDiagID>
+        <isVisible>false</isVisible>
+      </connector>
+      <connector id="id5vys4v-ko35" show-obj-two-img="false" show-obj-one-img="false" end-point-one-y="707.35" zorder="16" end-point-one-x="492.05" end-point-two-x="522.05" bi-directional="false" end-point-two-y="707.35" model-type="CONNECTOR">
+        <group-id/>
+        <anchorsCustomized>false</anchorsCustomized>
+        <connection-name/>
+        <compatibleConnDefs>
+          <String>Just a line</String>
+        </compatibleConnDefs>
+        <anchor-points/>
+        <connection-desc/>
+        <fromIconSource/>
+        <anchPntIDObjTwo>flowPort_4</anchPntIDObjTwo>
+        <anchPntIDObjOne/>
+        <comments/>
+        <text wrapping="false" text-rotation="NaN" position="CONNECTOR_PATH_CENTER">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content/>
+        </text>
+        <drawStyle>0</drawStyle>
+        <connection-def-id>Just a line</connection-def-id>
+        <toIconSource/>
+        <object-two-id>id5vys4v-ko61</object-two-id>
+        <object-one-id>id5vys4v-ko24</object-one-id>
+        <text-data-list>
+          <line-text isPrimary="true" position="" id="id5tw2d1-tf42" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5tw2d1-tf42" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5tw2d1-tf42" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+        </text-data-list>
+        <isLocked>false</isLocked>
+        <style alpha="NaN" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <ownerDiagID>id5vy8zq</ownerDiagID>
+        <isVisible>false</isVisible>
+      </connector>
+      <connector id="id5vys4v-ko56" show-obj-two-img="false" show-obj-one-img="false" end-point-one-y="632.35" zorder="25" end-point-one-x="1112.05" end-point-two-x="1132.05" bi-directional="false" end-point-two-y="632.35" model-type="CONNECTOR">
+        <group-id/>
+        <anchorsCustomized>false</anchorsCustomized>
+        <connection-name/>
+        <compatibleConnDefs>
+          <String>Just a line</String>
+        </compatibleConnDefs>
+        <anchor-points/>
+        <connection-desc/>
+        <fromIconSource/>
+        <anchPntIDObjTwo>flowPort_4</anchPntIDObjTwo>
+        <anchPntIDObjOne/>
+        <comments/>
+        <text wrapping="false" text-rotation="NaN" position="CONNECTOR_PATH_CENTER">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content/>
+        </text>
+        <drawStyle>0</drawStyle>
+        <connection-def-id>Just a line</connection-def-id>
+        <toIconSource/>
+        <object-two-id>id5vys4v-ko31</object-two-id>
+        <object-one-id>id5vys4v-ko33</object-one-id>
+        <text-data-list>
+          <line-text isPrimary="true" position="" id="id5txzr8-tf51" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5txzr8-tf51" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5txzr8-tf51" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+        </text-data-list>
+        <isLocked>false</isLocked>
+        <style alpha="NaN" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <ownerDiagID>id5vy8zq</ownerDiagID>
+        <isVisible>false</isVisible>
+      </connector>
+      <connector id="id5vys4v-ko38" show-obj-two-img="false" show-obj-one-img="false" end-point-one-y="707.35" zorder="22" end-point-one-x="752.05" end-point-two-x="782.05" bi-directional="false" end-point-two-y="632.35" model-type="CONNECTOR">
+        <group-id/>
+        <anchorsCustomized>true</anchorsCustomized>
+        <connection-name/>
+        <compatibleConnDefs>
+          <String>Just a line</String>
+        </compatibleConnDefs>
+        <anchor-points>
+          <point x="767.3152977728074" index="0" y="707.35"/>
+          <point x="766.6701364824848" index="1" y="632.35"/>
+        </anchor-points>
+        <connection-desc/>
+        <fromIconSource/>
+        <anchPntIDObjTwo>flowPort_4</anchPntIDObjTwo>
+        <anchPntIDObjOne>flowPort_2</anchPntIDObjOne>
+        <comments/>
+        <text wrapping="false" text-rotation="NaN" position="CONNECTOR_PATH_CENTER">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content/>
+        </text>
+        <drawStyle>0</drawStyle>
+        <connection-def-id>Just a line</connection-def-id>
+        <toIconSource/>
+        <object-two-id>id5vys4v-ko43</object-two-id>
+        <object-one-id>id5vys4v-ko50</object-one-id>
+        <text-data-list>
+          <line-text isPrimary="true" position="" id="id5twi3r-tf48" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5twi3r-tf48" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5twi3r-tf48" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+        </text-data-list>
+        <isLocked>false</isLocked>
+        <style alpha="NaN" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <ownerDiagID>id5vy8zq</ownerDiagID>
+        <isVisible>false</isVisible>
+      </connector>
+      <connector id="id5vys4v-ko39" show-obj-two-img="false" show-obj-one-img="false" end-point-one-y="632.35" zorder="24" end-point-one-x="1017.05" end-point-two-x="1042.05" bi-directional="false" end-point-two-y="632.35" model-type="CONNECTOR">
+        <group-id/>
+        <anchorsCustomized>false</anchorsCustomized>
+        <connection-name/>
+        <compatibleConnDefs>
+          <String>Just a line</String>
+        </compatibleConnDefs>
+        <anchor-points/>
+        <connection-desc/>
+        <fromIconSource/>
+        <anchPntIDObjTwo>flowPort_4</anchPntIDObjTwo>
+        <anchPntIDObjOne/>
+        <comments/>
+        <text wrapping="false" text-rotation="NaN" position="CONNECTOR_PATH_CENTER">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content/>
+        </text>
+        <drawStyle>0</drawStyle>
+        <connection-def-id>Just a line</connection-def-id>
+        <toIconSource/>
+        <object-two-id>id5vys4v-ko33</object-two-id>
+        <object-one-id>id5vys4v-ko41</object-one-id>
+        <text-data-list>
+          <line-text isPrimary="true" position="" id="id5txxdf-tf50" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5txxdf-tf50" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5txxdf-tf50" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+        </text-data-list>
+        <isLocked>false</isLocked>
+        <style alpha="NaN" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <ownerDiagID>id5vy8zq</ownerDiagID>
+        <isVisible>false</isVisible>
+      </connector>
+      <connector id="id5vys4v-ko2" show-obj-two-img="false" show-obj-one-img="false" end-point-one-y="632.35" zorder="23" end-point-one-x="897.05" end-point-two-x="917.05" bi-directional="false" end-point-two-y="632.35" model-type="CONNECTOR">
+        <group-id/>
+        <anchorsCustomized>false</anchorsCustomized>
+        <connection-name/>
+        <compatibleConnDefs>
+          <String>Just a line</String>
+        </compatibleConnDefs>
+        <anchor-points/>
+        <connection-desc/>
+        <fromIconSource/>
+        <anchPntIDObjTwo>flowPort_4</anchPntIDObjTwo>
+        <anchPntIDObjOne/>
+        <comments/>
+        <text wrapping="false" text-rotation="NaN" position="CONNECTOR_PATH_CENTER">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content/>
+        </text>
+        <drawStyle>0</drawStyle>
+        <connection-def-id>Just a line</connection-def-id>
+        <toIconSource/>
+        <object-two-id>id5vys4v-ko41</object-two-id>
+        <object-one-id>id5vys4v-ko43</object-one-id>
+        <text-data-list>
+          <line-text isPrimary="true" position="" id="id5txogr-tf49" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5txogr-tf49" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5txogr-tf49" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+        </text-data-list>
+        <isLocked>false</isLocked>
+        <style alpha="NaN" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <ownerDiagID>id5vy8zq</ownerDiagID>
+        <isVisible>false</isVisible>
+      </connector>
+      <connector id="id5vys4v-ko26" show-obj-two-img="false" show-obj-one-img="false" end-point-one-y="632.35" zorder="18" end-point-one-x="612.05" end-point-two-x="647.05" bi-directional="false" end-point-two-y="632.35" model-type="CONNECTOR">
+        <group-id/>
+        <anchorsCustomized>false</anchorsCustomized>
+        <connection-name/>
+        <compatibleConnDefs>
+          <String>Just a line</String>
+        </compatibleConnDefs>
+        <anchor-points/>
+        <connection-desc/>
+        <fromIconSource/>
+        <anchPntIDObjTwo>flowPort_4</anchPntIDObjTwo>
+        <anchPntIDObjOne/>
+        <comments/>
+        <text wrapping="false" text-rotation="NaN" position="CONNECTOR_PATH_CENTER">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content/>
+        </text>
+        <drawStyle>0</drawStyle>
+        <connection-def-id>Just a line</connection-def-id>
+        <toIconSource/>
+        <object-two-id>id5vys4v-ko16</object-two-id>
+        <object-one-id>id5vys4v-ko42</object-one-id>
+        <text-data-list>
+          <line-text isPrimary="true" position="" id="id5tw7k1-tf44" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5tw7k1-tf44" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5tw7k1-tf44" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+        </text-data-list>
+        <isLocked>false</isLocked>
+        <style alpha="NaN" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <ownerDiagID>id5vy8zq</ownerDiagID>
+        <isVisible>false</isVisible>
+      </connector>
+      <connector id="id5vys4v-ko3" show-obj-two-img="false" show-obj-one-img="false" end-point-one-y="632.35" zorder="15" end-point-one-x="492.05" end-point-two-x="522.05" bi-directional="false" end-point-two-y="632.35" model-type="CONNECTOR">
+        <group-id/>
+        <anchorsCustomized>false</anchorsCustomized>
+        <connection-name/>
+        <compatibleConnDefs>
+          <String>Just a line</String>
+        </compatibleConnDefs>
+        <anchor-points/>
+        <connection-desc/>
+        <fromIconSource/>
+        <anchPntIDObjTwo>flowPort_4</anchPntIDObjTwo>
+        <anchPntIDObjOne/>
+        <comments/>
+        <text wrapping="false" text-rotation="NaN" position="CONNECTOR_PATH_CENTER">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content/>
+        </text>
+        <drawStyle>0</drawStyle>
+        <connection-def-id>Just a line</connection-def-id>
+        <toIconSource/>
+        <object-two-id>id5vys4v-ko42</object-two-id>
+        <object-one-id>id5vys4v-ko45</object-one-id>
+        <text-data-list>
+          <line-text isPrimary="true" position="" id="id5tvzvn-tf41" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5tvzvn-tf41" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5tvzvn-tf41" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+        </text-data-list>
+        <isLocked>false</isLocked>
+        <style alpha="NaN" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <ownerDiagID>id5vy8zq</ownerDiagID>
+        <isVisible>false</isVisible>
+      </connector>
+      <connector id="id5vys4v-ko13" show-obj-two-img="false" show-obj-one-img="false" end-point-one-y="557.35" zorder="19" end-point-one-x="612.05" end-point-two-x="647.05" bi-directional="false" end-point-two-y="557.35" model-type="CONNECTOR">
+        <group-id/>
+        <anchorsCustomized>false</anchorsCustomized>
+        <connection-name/>
+        <compatibleConnDefs>
+          <String>Just a line</String>
+        </compatibleConnDefs>
+        <anchor-points/>
+        <connection-desc/>
+        <fromIconSource/>
+        <anchPntIDObjTwo>flowPort_4</anchPntIDObjTwo>
+        <anchPntIDObjOne/>
+        <comments/>
+        <text wrapping="false" text-rotation="NaN" position="CONNECTOR_PATH_CENTER">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content/>
+        </text>
+        <drawStyle>0</drawStyle>
+        <connection-def-id>Just a line</connection-def-id>
+        <toIconSource/>
+        <object-two-id>id5vys4v-ko9</object-two-id>
+        <object-one-id>id5vys4v-ko44</object-one-id>
+        <text-data-list>
+          <line-text isPrimary="true" position="" id="id5tw9qj-tf45" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5tw9qj-tf45" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5tw9qj-tf45" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+        </text-data-list>
+        <isLocked>false</isLocked>
+        <style alpha="NaN" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <ownerDiagID>id5vy8zq</ownerDiagID>
+        <isVisible>false</isVisible>
+      </connector>
+      <connector id="id5vys4v-ko51" show-obj-two-img="false" show-obj-one-img="false" end-point-one-y="632.35" zorder="29" end-point-one-x="357.05" end-point-two-x="387.05" bi-directional="false" end-point-two-y="632.35" model-type="CONNECTOR">
+        <group-id/>
+        <anchorsCustomized>false</anchorsCustomized>
+        <connection-name/>
+        <compatibleConnDefs>
+          <String>Just a line</String>
+        </compatibleConnDefs>
+        <anchor-points/>
+        <connection-desc/>
+        <fromIconSource/>
+        <anchPntIDObjTwo>flowPort_4</anchPntIDObjTwo>
+        <anchPntIDObjOne/>
+        <comments/>
+        <text wrapping="false" text-rotation="NaN" position="CONNECTOR_PATH_CENTER">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content/>
+        </text>
+        <drawStyle>0</drawStyle>
+        <connection-def-id>Just a line</connection-def-id>
+        <toIconSource/>
+        <object-two-id>id5vys4v-ko45</object-two-id>
+        <object-one-id>id5vys4v-ko28</object-one-id>
+        <text-data-list>
+          <line-text isPrimary="true" position="" id="id5vlml0-tf45" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5vlml0-tf45" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+        </text-data-list>
+        <isLocked>false</isLocked>
+        <style alpha="NaN" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <ownerDiagID>id5vy8zq</ownerDiagID>
+        <isVisible>false</isVisible>
+      </connector>
+      <connector id="id5vys4v-ko25" show-obj-two-img="false" show-obj-one-img="false" end-point-one-y="557.35" zorder="20" end-point-one-x="752.05" end-point-two-x="782.05" bi-directional="false" end-point-two-y="632.35" model-type="CONNECTOR">
+        <group-id/>
+        <anchorsCustomized>true</anchorsCustomized>
+        <connection-name/>
+        <compatibleConnDefs>
+          <String>Just a line</String>
+        </compatibleConnDefs>
+        <anchor-points>
+          <point x="766.1862655147429" index="0" y="557.35"/>
+          <point x="766.6701364824848" index="1" y="632.35"/>
+        </anchor-points>
+        <connection-desc/>
+        <fromIconSource/>
+        <anchPntIDObjTwo>flowPort_4</anchPntIDObjTwo>
+        <anchPntIDObjOne/>
+        <comments/>
+        <text wrapping="false" text-rotation="NaN" position="CONNECTOR_PATH_CENTER">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content/>
+        </text>
+        <drawStyle>0</drawStyle>
+        <connection-def-id>Just a line</connection-def-id>
+        <toIconSource/>
+        <object-two-id>id5vys4v-ko43</object-two-id>
+        <object-one-id>id5vys4v-ko9</object-one-id>
+        <text-data-list>
+          <line-text isPrimary="true" position="" id="id5twdek-tf46" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5twdek-tf46" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5twdek-tf46" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+        </text-data-list>
+        <isLocked>false</isLocked>
+        <style alpha="NaN" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <ownerDiagID>id5vy8zq</ownerDiagID>
+        <isVisible>false</isVisible>
+      </connector>
+      <connector id="id5vys4v-ko59" show-obj-two-img="false" show-obj-one-img="false" end-point-one-y="707.35" zorder="17" end-point-one-x="612.05" end-point-two-x="647.05" bi-directional="false" end-point-two-y="707.35" model-type="CONNECTOR">
+        <group-id/>
+        <anchorsCustomized>false</anchorsCustomized>
+        <connection-name/>
+        <compatibleConnDefs>
+          <String>Just a line</String>
+        </compatibleConnDefs>
+        <anchor-points/>
+        <connection-desc/>
+        <fromIconSource/>
+        <anchPntIDObjTwo>flowPort_4</anchPntIDObjTwo>
+        <anchPntIDObjOne/>
+        <comments/>
+        <text wrapping="false" text-rotation="NaN" position="CONNECTOR_PATH_CENTER">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content/>
+        </text>
+        <drawStyle>0</drawStyle>
+        <connection-def-id>Just a line</connection-def-id>
+        <toIconSource/>
+        <object-two-id>id5vys4v-ko50</object-two-id>
+        <object-one-id>id5vys4v-ko61</object-one-id>
+        <text-data-list>
+          <line-text isPrimary="true" position="" id="id5tw5dw-tf43" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5tw5dw-tf43" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5tw5dw-tf43" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+        </text-data-list>
+        <isLocked>false</isLocked>
+        <style alpha="NaN" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <ownerDiagID>id5vy8zq</ownerDiagID>
+        <isVisible>false</isVisible>
+      </connector>
+      <connector id="id5vys4v-ko57" show-obj-two-img="false" show-obj-one-img="false" end-point-one-y="557.35" zorder="26" end-point-one-x="357.05" end-point-two-x="387.05" bi-directional="false" end-point-two-y="557.35" model-type="CONNECTOR">
+        <group-id/>
+        <anchorsCustomized>false</anchorsCustomized>
+        <connection-name/>
+        <compatibleConnDefs>
+          <String>Just a line</String>
+        </compatibleConnDefs>
+        <anchor-points/>
+        <connection-desc/>
+        <fromIconSource/>
+        <anchPntIDObjTwo>flowPort_4</anchPntIDObjTwo>
+        <anchPntIDObjOne/>
+        <comments/>
+        <text wrapping="false" text-rotation="NaN" position="CONNECTOR_PATH_CENTER">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content/>
+        </text>
+        <drawStyle>0</drawStyle>
+        <connection-def-id>Just a line</connection-def-id>
+        <toIconSource/>
+        <object-two-id>id5vys4v-ko32</object-two-id>
+        <object-one-id>id5vys4v-ko34</object-one-id>
+        <text-data-list>
+          <line-text isPrimary="true" position="" id="id5vksbf-tf44" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5vksbf-tf44" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+        </text-data-list>
+        <isLocked>false</isLocked>
+        <style alpha="NaN" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <ownerDiagID>id5vy8zq</ownerDiagID>
+        <isVisible>false</isVisible>
+      </connector>
+      <connector id="id5vys4v-ko4" show-obj-two-img="false" show-obj-one-img="false" end-point-one-y="557.35" zorder="14" end-point-one-x="487.05" end-point-two-x="522.05" bi-directional="false" end-point-two-y="557.35" model-type="CONNECTOR">
+        <group-id/>
+        <anchorsCustomized>false</anchorsCustomized>
+        <connection-name/>
+        <compatibleConnDefs>
+          <String>Just a line</String>
+        </compatibleConnDefs>
+        <anchor-points/>
+        <connection-desc/>
+        <fromIconSource/>
+        <anchPntIDObjTwo>flowPort_4</anchPntIDObjTwo>
+        <anchPntIDObjOne/>
+        <comments/>
+        <text wrapping="false" text-rotation="NaN" position="CONNECTOR_PATH_CENTER">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content/>
+        </text>
+        <drawStyle>0</drawStyle>
+        <connection-def-id>Just a line</connection-def-id>
+        <toIconSource/>
+        <object-two-id>id5vys4v-ko44</object-two-id>
+        <object-one-id>id5vys4v-ko32</object-one-id>
+        <text-data-list>
+          <line-text isPrimary="true" position="" id="id5tvx87-tf40" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5tvx87-tf40" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="id5tvx87-tf40" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+        </text-data-list>
+        <isLocked>false</isLocked>
+        <style alpha="NaN" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <ownerDiagID>id5vy8zq</ownerDiagID>
+        <isVisible>false</isVisible>
+      </connector>
+    </connectors>
+    <kodefs/>
+    <comments/>
+    <embedHash/>
+    <notes/>
+    <docname>Single-groupAnalysisPipeline</docname>
+    <creatorUid>cmusselle</creatorUid>
+    <date-created>Mon Aug 10 2015 01:19:47 PM</date-created>
+    <libraries>
+      <lib-ID>
+        <id>flowCharts</id>
+      </lib-ID>
+      <lib-ID>
+        <id>basic</id>
+      </lib-ID>
+    </libraries>
+    <revision-user>cmusselle@mango-solutions.com</revision-user>
+    <koDefIDList>
+      <def-ID>root/flowChart/document?version=2&amp;author=Cinergix</def-ID>
+      <def-ID>root/flowChart?version=1&amp;author=Cinergix</def-ID>
+      <def-ID>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</def-ID>
+      <def-ID>root/abstractShapes?version=1&amp;author=Cinergix</def-ID>
+    </koDefIDList>
+    <canvas-height>1500</canvas-height>
+    <tags/>
+    <revisionUserId>cmusselle</revisionUserId>
+  </creately-doc>
+</svg>

@@ -1,0 +1,1486 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "00",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "July 9, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "09",
+		"hour": "23",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		{
+		"date": {
+		"pretty": "12:00 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "00",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "11:00 PM GMT on July 09, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "09",
+		"hour": "23",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"16", "tempi":"61","dewptm":"9", "dewpti":"49","hum":"55","wspdm":"13.0", "wspdi":"8.1","wgustm":"", "wgusti":"","wdird":"250","wdire":"WSW","vism":"19", "visi":"12","pressurem":"1024", "pressurei":"30.23","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 09234 03772 45/69 /2507 10160 20094 30206 40236 51009 333 55300 20000" },
+		{
+		"date": {
+		"pretty": "12:20 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "00",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "11:20 PM GMT on July 09, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "09",
+		"hour": "23",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"16.0", "tempi":"60.8","dewptm":"10.0", "dewpti":"50.0","hum":"68","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"240","wdire":"WSW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1023", "pressurei":"30.21","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 092320Z 24006KT CAVOK 16/10 Q1023 NOSIG" },
+		{
+		"date": {
+		"pretty": "12:50 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "00",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "11:50 PM GMT on July 09, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "09",
+		"hour": "23",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"16.0", "tempi":"60.8","dewptm":"10.0", "dewpti":"50.0","hum":"68","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"240","wdire":"WSW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1023", "pressurei":"30.21","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 092350Z 24005KT CAVOK 16/10 Q1023 NOSIG" },
+		{
+		"date": {
+		"pretty": "1:00 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "01",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "12:00 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "00",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"15", "tempi":"59","dewptm":"10", "dewpti":"49","hum":"62","wspdm":"7.4", "wspdi":"4.6","wgustm":"", "wgusti":"","wdird":"250","wdire":"WSW","vism":"22", "visi":"14","pressurem":"1023", "pressurei":"30.22","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10004 03772 15972 /2504 10152 20096 30204 40234 50001 60001 333 55/// 22953 8//99" },
+		{
+		"date": {
+		"pretty": "1:20 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "01",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "12:20 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "00",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"15.0", "tempi":"59.0","dewptm":"10.0", "dewpti":"50.0","hum":"72","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"230","wdire":"SW","vism":"10.0", "visi":"6.2","pressurem":"1023", "pressurei":"30.21","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Unknown","icon":"unknown","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 100020Z AUTO 23005KT 9999 NCD 15/10 Q1023" },
+		{
+		"date": {
+		"pretty": "1:50 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "01",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "12:50 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "00",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"15.0", "tempi":"59.0","dewptm":"10.0", "dewpti":"50.0","hum":"72","wspdm":"3.7", "wspdi":"2.3","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"10.0", "visi":"6.2","pressurem":"1023", "pressurei":"30.21","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Unknown","icon":"unknown","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 100050Z AUTO VRB02KT 9999 NCD 15/10 Q1023" },
+		{
+		"date": {
+		"pretty": "2:00 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "02",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "1:00 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "01",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"14", "tempi":"58","dewptm":"9", "dewpti":"49","hum":"63","wspdm":"5.6", "wspdi":"3.5","wgustm":"", "wgusti":"","wdird":"250","wdire":"WSW","vism":"26", "visi":"16","pressurem":"1023", "pressurei":"30.22","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10014 03772 45976 /2503 10142 20094 30204 40234 57003 333 55300 20000 8//99" },
+		{
+		"date": {
+		"pretty": "2:20 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "02",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "1:20 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "01",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"14.0", "tempi":"57.2","dewptm":"10.0", "dewpti":"50.0","hum":"77","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"180","wdire":"South","vism":"10.0", "visi":"6.2","pressurem":"1023", "pressurei":"30.21","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Unknown","icon":"unknown","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 100120Z AUTO 18004KT 9999 NCD 14/10 Q1023" },
+		{
+		"date": {
+		"pretty": "2:50 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "02",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "1:50 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "01",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"13.0", "tempi":"55.4","dewptm":"10.0", "dewpti":"50.0","hum":"82","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"180","wdire":"South","vism":"-9999.0", "visi":"-9999.0","pressurem":"1023", "pressurei":"30.21","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 100150Z 18006KT CAVOK 13/10 Q1023 NOSIG" },
+		{
+		"date": {
+		"pretty": "3:00 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "03",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "2:00 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "02",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"14", "tempi":"57","dewptm":"10", "dewpti":"50","hum":"69","wspdm":"9.3", "wspdi":"5.8","wgustm":"", "wgusti":"","wdird":"180","wdire":"South","vism":"25", "visi":"16","pressurem":"1023", "pressurei":"30.22","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10024 03772 45975 /1805 10137 20098 30202 40232 57004 333 55300 20000 8//99" },
+		{
+		"date": {
+		"pretty": "3:20 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "03",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "2:20 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "02",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"14.0", "tempi":"57.2","dewptm":"10.0", "dewpti":"50.0","hum":"77","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"200","wdire":"SSW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1023", "pressurei":"30.21","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 100220Z 20006KT CAVOK 14/10 Q1023 NOSIG" },
+		{
+		"date": {
+		"pretty": "3:50 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "03",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "2:50 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "02",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"14.0", "tempi":"57.2","dewptm":"10.0", "dewpti":"50.0","hum":"77","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"220","wdire":"SW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1023", "pressurei":"30.21","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 100250Z 22006KT CAVOK 14/10 Q1023 NOSIG" },
+		{
+		"date": {
+		"pretty": "4:00 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "04",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "3:00 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "03",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"14", "tempi":"56","dewptm":"10", "dewpti":"49","hum":"72","wspdm":"11.1", "wspdi":"6.9","wgustm":"", "wgusti":"","wdird":"220","wdire":"SW","vism":"25", "visi":"16","pressurem":"1023", "pressurei":"30.21","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10034 03772 45975 /2206 10136 20097 30200 40230 58004 333 55300 20000 8//99" },
+		{
+		"date": {
+		"pretty": "4:20 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "04",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "3:20 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "03",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"13.0", "tempi":"55.4","dewptm":"10.0", "dewpti":"50.0","hum":"82","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"220","wdire":"SW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1023", "pressurei":"30.21","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 100320Z 22004KT CAVOK 13/10 Q1023 NOSIG" },
+		{
+		"date": {
+		"pretty": "4:50 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "04",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "3:50 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "03",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"13.0", "tempi":"55.4","dewptm":"10.0", "dewpti":"50.0","hum":"82","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"190","wdire":"South","vism":"-9999.0", "visi":"-9999.0","pressurem":"1023", "pressurei":"30.21","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 100350Z 19003KT CAVOK 13/10 Q1023 NOSIG" },
+		{
+		"date": {
+		"pretty": "5:00 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "05",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "4:00 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "04",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"13", "tempi":"56","dewptm":"10", "dewpti":"50","hum":"73","wspdm":"7.4", "wspdi":"4.6","wgustm":"", "wgusti":"","wdird":"210","wdire":"SSW","vism":"20", "visi":"12","pressurem":"1023", "pressurei":"30.21","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10044 03772 45970 /2104 10131 20098 30197 40228 57006 333 55300 20000 8//99" },
+		{
+		"date": {
+		"pretty": "5:20 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "05",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "4:20 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "04",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"13.0", "tempi":"55.4","dewptm":"10.0", "dewpti":"50.0","hum":"82","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"-9999.0", "visi":"-9999.0","pressurem":"1022", "pressurei":"30.18","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 100420Z VRB03KT CAVOK 13/10 Q1022 NOSIG" },
+		{
+		"date": {
+		"pretty": "5:50 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "05",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "4:50 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "04",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"13.0", "tempi":"55.4","dewptm":"10.0", "dewpti":"50.0","hum":"82","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"-9999.0", "visi":"-9999.0","pressurem":"1022", "pressurei":"30.18","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 100450Z VRB04KT CAVOK 13/10 Q1022 NOSIG" },
+		{
+		"date": {
+		"pretty": "6:00 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "06",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "5:00 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "05",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"14", "tempi":"56","dewptm":"10", "dewpti":"50","hum":"75","wspdm":"9.3", "wspdi":"5.8","wgustm":"", "wgusti":"","wdird":"180","wdire":"South","vism":"18", "visi":"11","pressurem":"1023", "pressurei":"30.20","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10054 03772 45968 /1805 10135 20101 30196 40226 57006 333 55301 20065 8//99" },
+		{
+		"date": {
+		"pretty": "6:20 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "06",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "5:20 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "05",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"14.0", "tempi":"57.2","dewptm":"10.0", "dewpti":"50.0","hum":"77","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"190","wdire":"South","vism":"-9999.0", "visi":"-9999.0","pressurem":"1023", "pressurei":"30.21","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 100520Z 19004KT 140V250 CAVOK 14/10 Q1023 NOSIG" },
+		{
+		"date": {
+		"pretty": "6:50 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "06",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "5:50 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "05",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"14.0", "tempi":"57.2","dewptm":"11.0", "dewpti":"51.8","hum":"82","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"-9999.0", "visi":"-9999.0","pressurem":"1023", "pressurei":"30.21","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 100550Z VRB03KT CAVOK 14/11 Q1023 NOSIG" },
+		{
+		"date": {
+		"pretty": "7:00 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "07",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "6:00 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "06",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"15", "tempi":"59","dewptm":"10", "dewpti":"51","hum":"66","wspdm":"7.4", "wspdi":"4.6","wgustm":"", "wgusti":"","wdird":"170","wdire":"South","vism":"22", "visi":"14","pressurem":"1023", "pressurei":"30.20","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10064 03772 15972 /1704 10148 20103 30196 40226 56004 60002 333 20130 3/008 55137 55309 20415" },
+		{
+		"date": {
+		"pretty": "7:20 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "07",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "6:20 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "06",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"16.0", "tempi":"60.8","dewptm":"11.0", "dewpti":"51.8","hum":"72","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"190","wdire":"South","vism":"-9999.0", "visi":"-9999.0","pressurem":"1023", "pressurei":"30.21","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 100620Z 19006KT 150V230 CAVOK 16/11 Q1023 NOSIG" },
+		{
+		"date": {
+		"pretty": "7:50 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "07",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "6:50 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "06",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"17.0", "tempi":"62.6","dewptm":"11.0", "dewpti":"51.8","hum":"68","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"180","wdire":"South","vism":"-9999.0", "visi":"-9999.0","pressurem":"1023", "pressurei":"30.21","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 100650Z 18005KT 130V220 CAVOK 17/11 Q1023 NOSIG" },
+		{
+		"date": {
+		"pretty": "8:00 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "08",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "7:00 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"17", "tempi":"62","dewptm":"10", "dewpti":"50","hum":"55","wspdm":"13.0", "wspdi":"8.1","wgustm":"", "wgusti":"","wdird":"190","wdire":"South","vism":"25", "visi":"16","pressurem":"1022", "pressurei":"30.20","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10074 03772 45975 /1907 10167 20100 30195 40225 56002 333 55310 20957 8//99" },
+		{
+		"date": {
+		"pretty": "8:20 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "08",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "7:20 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "07",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"18.0", "tempi":"64.4","dewptm":"10.0", "dewpti":"50.0","hum":"59","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"-9999.0", "visi":"-9999.0","pressurem":"1022", "pressurei":"30.18","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 100720Z VRB05KT CAVOK 18/10 Q1022 NOSIG" },
+		{
+		"date": {
+		"pretty": "8:50 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "08",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "7:50 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "07",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"19.0", "tempi":"66.2","dewptm":"10.0", "dewpti":"50.0","hum":"56","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"180","wdire":"South","vism":"-9999.0", "visi":"-9999.0","pressurem":"1022", "pressurei":"30.18","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 100750Z 18006KT 120V290 CAVOK 19/10 Q1022 NOSIG" },
+		{
+		"date": {
+		"pretty": "9:00 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "09",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "8:00 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "08",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"18", "tempi":"65","dewptm":"9", "dewpti":"48","hum":"43","wspdm":"11.1", "wspdi":"6.9","wgustm":"", "wgusti":"","wdird":"200","wdire":"SSW","vism":"28", "visi":"17","pressurem":"1022", "pressurei":"30.19","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10084 03772 45978 /2006 10185 20089 30193 40223 58002 333 55310 21537 8//99" },
+		{
+		"date": {
+		"pretty": "9:20 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "09",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "8:20 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "08",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"20.0", "tempi":"68.0","dewptm":"10.0", "dewpti":"50.0","hum":"52","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"200","wdire":"SSW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1022", "pressurei":"30.18","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 100820Z 20005KT 150V240 CAVOK 20/10 Q1022 NOSIG" },
+		{
+		"date": {
+		"pretty": "9:50 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "09",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "8:50 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "08",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"20.0", "tempi":"68.0","dewptm":"7.0", "dewpti":"44.6","hum":"43","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"180","wdire":"South","vism":"10.0", "visi":"6.2","pressurem":"1022", "pressurei":"30.18","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Unknown","icon":"unknown","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 100850Z AUTO 18007KT 120V230 9999 NCD 20/07 Q1022" },
+		{
+		"date": {
+		"pretty": "10:00 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "10",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "9:00 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "09",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"20", "tempi":"68","dewptm":"8", "dewpti":"47","hum":"35","wspdm":"14.8", "wspdi":"9.2","wgustm":"", "wgusti":"","wdird":"160","wdire":"SSE","vism":"26", "visi":"16","pressurem":"1022", "pressurei":"30.18","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10094 03772 45976 /1608 10201 20081 30189 40218 58007 333 55310 22073 8//99" },
+		{
+		"date": {
+		"pretty": "10:20 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "10",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "9:20 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "09",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"21.0", "tempi":"69.8","dewptm":"9.0", "dewpti":"48.2","hum":"46","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"190","wdire":"South","vism":"-9999.0", "visi":"-9999.0","pressurem":"1022", "pressurei":"30.18","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 100920Z 19008KT 160V230 CAVOK 21/09 Q1022 NOSIG" },
+		{
+		"date": {
+		"pretty": "10:50 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "10",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "9:50 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "09",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"22.0", "tempi":"71.6","dewptm":"8.0", "dewpti":"46.4","hum":"41","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"160","wdire":"SSE","vism":"-9999.0", "visi":"-9999.0","pressurem":"1021", "pressurei":"30.15","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 100950Z 16009KT 110V210 CAVOK 22/08 Q1021 NOSIG" },
+		{
+		"date": {
+		"pretty": "11:00 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "11",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "10:00 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "10",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"22", "tempi":"71","dewptm":"8", "dewpti":"47","hum":"31","wspdm":"18.5", "wspdi":"11.5","wgustm":"", "wgusti":"","wdird":"140","wdire":"SE","vism":"30", "visi":"19","pressurem":"1022", "pressurei":"30.17","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10104 03772 45980 /1410 10217 20082 30186 40215 57010 333 55310 22584 8//99" },
+		{
+		"date": {
+		"pretty": "11:20 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "11",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "10:20 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "10",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"23.0", "tempi":"73.4","dewptm":"6.0", "dewpti":"42.8","hum":"33","wspdm":"14.8", "wspdi":"9.2","wgustm":"33.3", "wgusti":"20.7","wdird":"170","wdire":"South","vism":"-9999.0", "visi":"-9999.0","pressurem":"1021", "pressurei":"30.15","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 101020Z 17008G18KT 120V270 CAVOK 23/06 Q1021 NOSIG" },
+		{
+		"date": {
+		"pretty": "11:50 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "11",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "10:50 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "10",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"6.0", "dewpti":"42.8","hum":"31","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"160","wdire":"SSE","vism":"-9999.0", "visi":"-9999.0","pressurem":"1021", "pressurei":"30.15","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 101050Z 16010KT 130V220 CAVOK 24/06 Q1021 NOSIG" },
+		{
+		"date": {
+		"pretty": "12:00 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "12",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "11:00 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "11",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"23", "tempi":"74","dewptm":"7", "dewpti":"44","hum":"23","wspdm":"18.5", "wspdi":"11.5","wgustm":"", "wgusti":"","wdird":"160","wdire":"SSE","vism":"30", "visi":"19","pressurem":"1021", "pressurei":"30.14","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10114 03772 45980 /1610 10234 20066 30177 40207 58016 333 55310 22893 8//99" },
+		{
+		"date": {
+		"pretty": "12:20 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "12",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "11:20 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "11",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"6.0", "dewpti":"42.8","hum":"31","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"200","wdire":"SSW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 101120Z 20010KT 160V240 CAVOK 24/06 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "12:50 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "12",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "11:50 AM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "11",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"7.0", "dewpti":"44.6","hum":"32","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"-9999.0", "visi":"-9999.0","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 101150Z VRB08KT CAVOK 25/07 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "1:00 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "13",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "12:00 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "12",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"25", "tempi":"76","dewptm":"6", "dewpti":"44","hum":"21","wspdm":"18.5", "wspdi":"11.5","wgustm":"", "wgusti":"","wdird":"170","wdire":"South","vism":"30", "visi":"19","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10124 03772 15980 /1710 10247 20065 30171 40200 58018 60001 333 55310 23312 8//99" },
+		{
+		"date": {
+		"pretty": "1:20 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "13",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "12:20 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "12",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"6.0", "dewpti":"42.8","hum":"29","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"160","wdire":"SSE","vism":"-9999.0", "visi":"-9999.0","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 101220Z 16007KT 120V270 CAVOK 25/06 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "1:50 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "13",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "12:50 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "12",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"26.0", "tempi":"78.8","dewptm":"5.0", "dewpti":"41.0","hum":"26","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"170","wdire":"South","vism":"-9999.0", "visi":"-9999.0","pressurem":"1019", "pressurei":"30.09","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 101250Z 17009KT 110V220 CAVOK 26/05 Q1019 NOSIG" },
+		{
+		"date": {
+		"pretty": "2:00 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "14",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "1:00 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "13",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"25", "tempi":"78","dewptm":"6", "dewpti":"42","hum":"18","wspdm":"18.5", "wspdi":"11.5","wgustm":"", "wgusti":"","wdird":"130","wdire":"SE","vism":"30", "visi":"19","pressurem":"1019", "pressurei":"30.10","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10134 03772 45980 /1310 10253 20056 30163 40192 57023 333 55310 23263 8//99" },
+		{
+		"date": {
+		"pretty": "2:20 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "14",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "1:20 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "13",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"26.0", "tempi":"78.8","dewptm":"4.0", "dewpti":"39.2","hum":"24","wspdm":"16.7", "wspdi":"10.4","wgustm":"35.2", "wgusti":"21.9","wdird":"180","wdire":"South","vism":"-9999.0", "visi":"-9999.0","pressurem":"1019", "pressurei":"30.09","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 101320Z 18009G19KT 140V230 CAVOK 26/04 Q1019 NOSIG" },
+		{
+		"date": {
+		"pretty": "2:50 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "14",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "1:50 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "13",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"26.0", "tempi":"78.8","dewptm":"3.0", "dewpti":"37.4","hum":"23","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"170","wdire":"South","vism":"-9999.0", "visi":"-9999.0","pressurem":"1018", "pressurei":"30.06","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 101350Z 17010KT 130V250 CAVOK 26/03 Q1018 NOSIG" },
+		{
+		"date": {
+		"pretty": "3:00 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "15",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "2:00 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "14",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"26", "tempi":"79","dewptm":"2", "dewpti":"36","hum":"12","wspdm":"18.5", "wspdi":"11.5","wgustm":"", "wgusti":"","wdird":"160","wdire":"SSE","vism":"35", "visi":"22","pressurem":"1018", "pressurei":"30.08","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10144 03772 45981 /1610 10259 20025 30155 40184 58022 333 55310 23092 8//99" },
+		{
+		"date": {
+		"pretty": "3:20 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "15",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "2:20 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "14",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"26.0", "tempi":"78.8","dewptm":"3.0", "dewpti":"37.4","hum":"23","wspdm":"18.5", "wspdi":"11.5","wgustm":"38.9", "wgusti":"24.2","wdird":"160","wdire":"SSE","vism":"-9999.0", "visi":"-9999.0","pressurem":"1018", "pressurei":"30.06","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 101420Z 16010G21KT 120V200 CAVOK 26/03 Q1018" },
+		{
+		"date": {
+		"pretty": "3:50 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "15",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "2:50 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "14",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"26.0", "tempi":"78.8","dewptm":"2.0", "dewpti":"35.6","hum":"21","wspdm":"20.4", "wspdi":"12.7","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"150","wdire":"SSE","vism":"-9999.0", "visi":"-9999.0","pressurem":"1018", "pressurei":"30.06","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 101450Z 15011KT CAVOK 26/02 Q1018" },
+		{
+		"date": {
+		"pretty": "4:00 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "16",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "3:00 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "15",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"26", "tempi":"79","dewptm":"2", "dewpti":"35","hum":"11","wspdm":"18.5", "wspdi":"11.5","wgustm":"", "wgusti":"","wdird":"150","wdire":"SSE","vism":"30", "visi":"19","pressurem":"1018", "pressurei":"30.05","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10154 03772 45/80 /1510 10262 20016 30146 40175 57025 333 55310 22844" },
+		{
+		"date": {
+		"pretty": "4:20 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "16",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "3:20 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "15",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"26.0", "tempi":"78.8","dewptm":"3.0", "dewpti":"37.4","hum":"23","wspdm":"20.4", "wspdi":"12.7","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"160","wdire":"SSE","vism":"-9999.0", "visi":"-9999.0","pressurem":"1017", "pressurei":"30.04","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 101520Z 16011KT CAVOK 26/03 Q1017 NOSIG" },
+		{
+		"date": {
+		"pretty": "4:50 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "16",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "3:50 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "15",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"26.0", "tempi":"78.8","dewptm":"4.0", "dewpti":"39.2","hum":"24","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"180","wdire":"South","vism":"-9999.0", "visi":"-9999.0","pressurem":"1017", "pressurei":"30.04","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 101550Z 18009KT 110V220 CAVOK 26/04 Q1017 NOSIG" },
+		{
+		"date": {
+		"pretty": "5:00 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "17",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "4:00 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "16",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"25", "tempi":"77","dewptm":"4", "dewpti":"38","hum":"15","wspdm":"22.2", "wspdi":"13.8","wgustm":"", "wgusti":"","wdird":"180","wdire":"South","vism":"30", "visi":"19","pressurem":"1017", "pressurei":"30.03","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10164 03772 45/80 /1812 10252 20035 30138 40167 57024 333 55310 21868" },
+		{
+		"date": {
+		"pretty": "5:20 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "17",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "4:20 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "16",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"26.0", "tempi":"78.8","dewptm":"4.0", "dewpti":"39.2","hum":"24","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"160","wdire":"SSE","vism":"-9999.0", "visi":"-9999.0","pressurem":"1016", "pressurei":"30.01","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 101620Z 16010KT 130V200 CAVOK 26/04 Q1016 NOSIG" },
+		{
+		"date": {
+		"pretty": "5:50 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "17",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "4:50 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "16",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"4.0", "dewpti":"39.2","hum":"26","wspdm":"16.7", "wspdi":"10.4","wgustm":"37.0", "wgusti":"23.0","wdird":"150","wdire":"SSE","vism":"-9999.0", "visi":"-9999.0","pressurem":"1016", "pressurei":"30.01","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 101650Z 15009G20KT CAVOK 25/04 Q1016 NOSIG" },
+		{
+		"date": {
+		"pretty": "6:00 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "18",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "5:00 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "17",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"25", "tempi":"77","dewptm":"3", "dewpti":"38","hum":"15","wspdm":"16.7", "wspdi":"10.4","wgustm":"", "wgusti":"","wdird":"180","wdire":"South","vism":"35", "visi":"22","pressurem":"1016", "pressurei":"30.01","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10174 03772 45/81 /1809 10250 20034 30132 40161 56023 333 55310 21720" },
+		{
+		"date": {
+		"pretty": "6:20 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "18",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "5:20 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "17",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"2.0", "dewpti":"35.6","hum":"22","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"160","wdire":"SSE","vism":"-9999.0", "visi":"-9999.0","pressurem":"1016", "pressurei":"30.01","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 101720Z 16010KT 110V210 CAVOK 25/02 Q1016 NOSIG" },
+		{
+		"date": {
+		"pretty": "6:50 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "18",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "5:50 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "17",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"3.0", "dewpti":"37.4","hum":"25","wspdm":"20.4", "wspdi":"12.7","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"180","wdire":"South","vism":"-9999.0", "visi":"-9999.0","pressurem":"1016", "pressurei":"30.01","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 101750Z 18011KT 140V210 CAVOK 24/03 Q1016 NOSIG" },
+		{
+		"date": {
+		"pretty": "7:00 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "19",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "6:00 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "18",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24", "tempi":"75","dewptm":"2", "dewpti":"36","hum":"15","wspdm":"18.5", "wspdi":"11.5","wgustm":"", "wgusti":"","wdird":"160","wdire":"SSE","vism":"30", "visi":"19","pressurem":"1016", "pressurei":"30.00","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10184 03772 15/80 /1610 10239 20025 30129 40158 56017 60002 333 10267 55303 20771" },
+		{
+		"date": {
+		"pretty": "7:20 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "19",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "6:20 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "18",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"23.0", "tempi":"73.4","dewptm":"2.0", "dewpti":"35.6","hum":"25","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"210","wdire":"SSW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1016", "pressurei":"30.01","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 101820Z 21009KT CAVOK 23/02 Q1016 NOSIG" },
+		{
+		"date": {
+		"pretty": "7:50 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "19",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "6:50 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "18",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"23.0", "tempi":"73.4","dewptm":"3.0", "dewpti":"37.4","hum":"27","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"190","wdire":"South","vism":"-9999.0", "visi":"-9999.0","pressurem":"1016", "pressurei":"30.01","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 101850Z 19008KT 160V240 CAVOK 23/03 Q1016 NOSIG" },
+		{
+		"date": {
+		"pretty": "8:00 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "20",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "7:00 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "19",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"23", "tempi":"73","dewptm":"3", "dewpti":"37","hum":"16","wspdm":"14.8", "wspdi":"9.2","wgustm":"", "wgusti":"","wdird":"180","wdire":"South","vism":"26", "visi":"16","pressurem":"1016", "pressurei":"30.00","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10194 03772 45/76 /1808 10226 20027 30130 40159 56008 333 55300 20251" },
+		{
+		"date": {
+		"pretty": "8:20 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "20",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "7:20 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "19",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"22.0", "tempi":"71.6","dewptm":"4.0", "dewpti":"39.2","hum":"31","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"150","wdire":"SSE","vism":"-9999.0", "visi":"-9999.0","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 101920Z 15008KT 110V190 CAVOK 22/04 Q1015 NOSIG" },
+		{
+		"date": {
+		"pretty": "8:50 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "20",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "7:50 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "19",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"22.0", "tempi":"71.6","dewptm":"6.0", "dewpti":"42.8","hum":"35","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"140","wdire":"SE","vism":"-9999.0", "visi":"-9999.0","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 101950Z 14006KT 090V170 CAVOK 22/06 Q1015 NOSIG" },
+		{
+		"date": {
+		"pretty": "9:00 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "21",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "8:00 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "20",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"22", "tempi":"71","dewptm":"6", "dewpti":"44","hum":"26","wspdm":"14.8", "wspdi":"9.2","wgustm":"", "wgusti":"","wdird":"130","wdire":"SE","vism":"23", "visi":"14","pressurem":"1015", "pressurei":"29.99","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10204 03772 45/73 /1308 10219 20064 30124 40154 55007 333 55300 20090" },
+		{
+		"date": {
+		"pretty": "9:20 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "21",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "8:20 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "20",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"22.0", "tempi":"71.6","dewptm":"7.0", "dewpti":"44.6","hum":"38","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"160","wdire":"SSE","vism":"-9999.0", "visi":"-9999.0","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 102020Z 16005KT 130V220 CAVOK 22/07 Q1015 NOSIG" },
+		{
+		"date": {
+		"pretty": "9:50 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "21",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "8:50 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "20",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"21.0", "tempi":"69.8","dewptm":"8.0", "dewpti":"46.4","hum":"43","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"160","wdire":"SSE","vism":"-9999.0", "visi":"-9999.0","pressurem":"1016", "pressurei":"30.01","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 102050Z 16006KT 110V210 CAVOK 21/08 Q1016 NOSIG" },
+		{
+		"date": {
+		"pretty": "10:00 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "22",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "9:00 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "21",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"22", "tempi":"71","dewptm":"7", "dewpti":"45","hum":"28","wspdm":"11.1", "wspdi":"6.9","wgustm":"", "wgusti":"","wdird":"160","wdire":"SSE","vism":"22", "visi":"14","pressurem":"1016", "pressurei":"29.99","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10214 03772 45/72 /1606 10215 20072 30127 40156 55002 333 55300 20000" },
+		{
+		"date": {
+		"pretty": "10:20 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "22",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "9:20 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "21",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"21.0", "tempi":"69.8","dewptm":"8.0", "dewpti":"46.4","hum":"43","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"-9999.0", "visi":"-9999.0","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 102120Z VRB03KT CAVOK 21/08 Q1015 NOSIG" },
+		{
+		"date": {
+		"pretty": "10:50 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "22",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "9:50 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "21",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"21.0", "tempi":"69.8","dewptm":"8.0", "dewpti":"46.4","hum":"43","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"220","wdire":"SW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1016", "pressurei":"30.01","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 102150Z 22004KT 180V250 CAVOK 21/08 Q1016 NOSIG" },
+		{
+		"date": {
+		"pretty": "11:00 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "23",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "10:00 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "22",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"21", "tempi":"70","dewptm":"7", "dewpti":"45","hum":"29","wspdm":"5.6", "wspdi":"3.5","wgustm":"", "wgusti":"","wdird":"220","wdire":"SW","vism":"24", "visi":"15","pressurem":"1016", "pressurei":"30.00","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"","icon":"","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 10224 03772 45/74 /2203 10209 20072 30128 40158 55001 333 55300 20000" },
+		{
+		"date": {
+		"pretty": "11:20 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "23",
+		"min": "20",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "10:20 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "22",
+		"min": "20",
+		"tzname": "UTC"
+		},
+		"tempm":"20.0", "tempi":"68.0","dewptm":"8.0", "dewpti":"46.4","hum":"46","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"-9999.0", "visi":"-9999.0","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 102220Z VRB03KT CAVOK 20/08 Q1015 NOSIG" },
+		{
+		"date": {
+		"pretty": "11:50 PM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "23",
+		"min": "50",
+		"tzname": "Europe/London"
+		},
+		"utcdate": {
+		"pretty": "10:50 PM GMT on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "22",
+		"min": "50",
+		"tzname": "UTC"
+		},
+		"tempm":"20.0", "tempi":"68.0","dewptm":"8.0", "dewpti":"46.4","hum":"46","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"-9999.0", "visi":"-9999.0","pressurem":"1015", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR EGLL 102250Z VRB03KT CAVOK 20/08 Q1015 NOSIG" }
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "12:00 AM BST on July 10, 2015",
+		"year": "2015",
+		"mon": "07",
+		"mday": "10",
+		"hour": "00",
+		"min": "00",
+		"tzname": "Europe/London"
+		},
+		"fog":"0","rain":"0","snow":"0","snowfallm":"", "snowfalli":"","monthtodatesnowfallm":"", "monthtodatesnowfalli":"","since1julsnowfallm":"", "since1julsnowfalli":"","snowdepthm":"", "snowdepthi":"","hail":"0","thunder":"0","tornado":"0","meantempm":"20", "meantempi":"68","meandewptm":"7", "meandewpti":"45","meanpressurem":"1019.78", "meanpressurei":"30.12","meanwindspdm":"11", "meanwindspdi":"7","meanwdire":"South","meanwdird":"182","meanvism":"23.1", "meanvisi":"14.5","humidity":"45","maxtempm":"26", "maxtempi":"80","mintempm":"13", "mintempi":"55","maxhumidity":"82","minhumidity":"11","maxdewptm":"11", "maxdewpti":"52","mindewptm":"2", "mindewpti":"35","maxpressurem":"1024", "maxpressurei":"30.23","minpressurem":"1015", "minpressurei":"29.98","maxwspdm":"22", "maxwspdi":"14","minwspdm":"4", "minwspdi":"2","maxvism":"30.0", "maxvisi":"19.0","minvism":"10.0", "minvisi":"6.2","gdegreedays":"18","heatingdegreedays":"0","coolingdegreedays":"2","precipm":"0.0", "precipi":"0.00","precipsource":"3Or6HourObs","heatingdegreedaysnormal":"","monthtodateheatingdegreedays":"","monthtodateheatingdegreedaysnormal":"","since1sepheatingdegreedays":"","since1sepheatingdegreedaysnormal":"","since1julheatingdegreedays":"","since1julheatingdegreedaysnormal":"","coolingdegreedaysnormal":"","monthtodatecoolingdegreedays":"","monthtodatecoolingdegreedaysnormal":"","since1sepcoolingdegreedays":"","since1sepcoolingdegreedaysnormal":"","since1jancoolingdegreedays":"","since1jancoolingdegreedaysnormal":"" }
+		]
+	}
+}
+

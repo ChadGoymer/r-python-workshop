@@ -1,0 +1,62 @@
+# This is the first rule run by snakemake
+rule all:
+    input:
+        'plots/UK-London.png'
+
+
+# Produce plots -----------------------------------
+rule plot:
+    input:
+        'data/aggregate/UK-London.csv'
+    output:
+        'plots/UK-London.png'
+    shell:
+        'Rscript plot_timeseries.R {input} {output}'
+
+
+# Aggregate --------------------------------------
+rule aggregate:
+    input:
+        'data/processed/UK-London--20150701.csv',
+        'data/processed/UK-London--20150702.csv'
+    output:
+        'data/aggregate/UK-London.csv'
+    shell:
+        'python aggregate_all.py {input} {output}'
+
+
+# Processing --------------------------------------
+
+#
+# Rewrite the two rules below as a single rule with a wildcard
+#
+
+rule process1:
+    input: 
+        'data/raw/UK-London--20150701.json'
+    output:
+        'data/processed/UK-London--20150701.csv'
+    shell:
+        'python process_one.py {input} {output}'
+
+rule process2:
+    input: 
+        'data/raw/UK-London--20150702.json'
+    output:
+        'data/processed/UK-London--20150702.csv'
+    shell:
+        'python process_one.py {input} {output}'
+
+
+# Download raw data ------------------------------
+rule download1:
+    output:
+        'data/raw/UK-London--20150701.json'
+    shell:
+    	'python source.py UK-London 20150701'
+
+rule download2:
+    output:
+        'data/raw/UK-London--20150702.json'
+    shell:
+        'python source.py UK-London 20150702'

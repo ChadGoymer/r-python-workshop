@@ -1,0 +1,1 @@
+Rscript plot_timeseries.R data/aggregate/UK-London.csv plots/UK-London.png

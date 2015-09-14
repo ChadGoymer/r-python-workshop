@@ -1,0 +1,1 @@
+python aggregate_all.py data/process/UK-London.csv data/aggregate/UK-London.csv

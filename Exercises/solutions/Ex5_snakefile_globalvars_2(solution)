@@ -1,0 +1,55 @@
+# This example snakefile uses global variables and expand to parametrise both the Locations and the dates
+# used as variables in the analysis 
+
+# The previous equivalent code for the rule is showed commented out below the new rule
+
+# GLOBAL VARIABLES
+LOCATIONS = ["UK-London"]
+
+DATES = ["20150701", "20150702"]
+
+
+# This is the first rule run
+rule all:
+    input:
+        expand("plots/{location}.png", location=LOCATIONS)
+
+
+# Produce plots -----------------------------------
+rule plot:
+    input:
+        'data/aggregate/{location}.csv'
+    output:
+        'plots/{location}.png'
+    shell:
+        'Rscript plot_timeseries.R {input} {output}'
+
+
+# Aggregate --------------------------------------
+rule aggregate:
+    input:
+        expand("data/processed/{{location}}--{date}.csv", date=DATES)
+    #     'data/processed/{location}--20150701.csv',
+    #     'data/processed/{location}--20150702.csv'
+    output:
+        'data/aggregate/{location}.csv'
+    shell:
+        'python aggregate_all.py {input} {output}'
+
+
+# Processing --------------------------------------
+rule process:
+	input: 
+		'data/raw/{dataset}.json'
+	output:
+		'data/processed/{dataset}.csv'
+	shell:
+		'python process_one.py {input} {output}'
+
+
+# Download raw data ------------------------------
+rule download:
+    output:
+        'data/raw/{loc}--{date}.json'
+    shell:
+    	'python source.py {wildcards.loc} {wildcards.date}'

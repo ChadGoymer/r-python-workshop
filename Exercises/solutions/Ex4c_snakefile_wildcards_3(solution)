@@ -1,0 +1,57 @@
+# This example shows a snakefile with the use of wildcards to match the location "UK-London"
+# in the input and output files, so as to avoid repetition and hard coding.
+
+# The previous equivalent code for the rule is showed commented out below the new rule
+
+# The location must still be fully specified as a string in the first rule "all" so that
+# snakemake has a starting point to match the wildcard patterns to. 
+
+
+# This is the first rule run by snakemake
+rule all:
+    input:
+        'plots/UK-London.png'
+
+
+# Produce plots -----------------------------------
+rule plot:
+    input:
+        'data/aggregate/{location}.csv'
+        # 'data/aggregate/UK-London.csv'
+    output:
+        'plots/{location}.png'
+        # 'plots/UK-London.png'
+    shell:
+        'Rscript plot_timeseries.R {input} {output}'
+
+
+# Aggregate --------------------------------------
+rule aggregate:
+    input:
+        'data/processed/{location}--20150701.csv',
+        'data/processed/{location}--20150702.csv'
+        # 'data/processed/UK-London--20150701.csv',
+        # 'data/processed/UK-London--20150702.csv'
+    output:
+        'data/aggregate/{location}.csv'
+        # 'data/aggregate/UK-London.csv'
+    shell:
+        'python aggregate_all.py {input} {output}'
+
+
+# Processing --------------------------------------
+rule process:
+	input: 
+		'data/raw/{dataset}.json'
+	output:
+		'data/processed/{dataset}.csv'
+	shell:
+		'python process_one.py {input} {output}'
+
+
+# Download raw data ------------------------------
+rule download:
+    output:
+        'data/raw/{loc}--{date}.json'
+    shell:
+    	'python source.py {wildcards.loc} {wildcards.date}'

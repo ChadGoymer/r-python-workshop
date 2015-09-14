@@ -1,0 +1,294 @@
+<svg version="1.1" x="0" y="0" id="icxd135g" diagram-revision="0" width="645" height="125" xmlns="http://www.w3.org/2000/svg" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <g id="Rounded Rectangle-icxd15w6-ko1" transform="translate(5,20)">
+    <desc>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="0.75" y="0.75" width="158.5" height="88.5" rx="20" fill="#fbaf5a" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="122.75" height="26.75" transform="translate(18.6,31.1)">
+      <tspan x="4.55" y="20.940908908843994" style="font-family:Arial;font-size:18px;fill:#000000;">Data Sourcing</tspan>
+    </text>
+  </g>
+  <g id="icxd2k70-ko4" transform="translate(240,5)">
+    <desc>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="0.75" y="0.75" width="158.5" height="114.17923307418823" rx="20" fill="#fbaf5a" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="89.1" height="70.35" transform="translate(35.45,22.15)">
+      <tspan x="10" y="20.940908908843994" style="font-family:Arial;font-size:18px;fill:#000000;">Cleaning</tspan>
+      <tspan x="38.15" y="43.64090890884399" style="font-family:Arial;font-size:18px;fill:#000000;">&amp;</tspan>
+      <tspan x="4.55" y="66.390908908844" style="font-family:Arial;font-size:18px;fill:#000000;">Wrangling</tspan>
+    </text>
+  </g>
+  <g id="icxd2omb-ko6" transform="translate(480,20)">
+    <desc>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="0.75" y="0.75" width="158.5" height="88.5" rx="20" fill="#fbaf5a" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="82.75" height="26.75" transform="translate(38.6,31.1)">
+      <tspan x="4.55" y="20.940908908843994" style="font-family:Arial;font-size:18px;fill:#000000;">Exploring</tspan>
+    </text>
+  </g>
+  <g id="Connector-icxd2yft-ko9" transform="translate(-50,-380)">
+    <g id="graphics">
+      <path d="M 450 445 L 530 445 " fill="none" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+    <g id="toIcon" transform="translate(530,445) rotate(90)">
+      <metadata id="metadata3057">
+        <aaa:RDF xmlns:aaa="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+      </metadata>
+      <aaa:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" aab:pageopacity="0" aab:pageshadow="2" aab:window-width="1366" aab:window-height="706" id="namedview3053" showgrid="true" aab:zoom="5.6568543" aab:cx="35.742573" aab:cy="39.38026" aab:window-x="-8" aab:window-y="-8" aab:window-maximized="1" aab:current-layer="Layer_1" xmlns:aaa="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:aab="http://www.inkscape.org/namespaces/inkscape"/>
+      <polygon points="0,0 8,8 -8,8 " id="polygon3051" transform="translate(0.00390625,0.71874995)" style="stroke:#626262;fill:#626262;stroke-width:1.5;" stroke="#626262" stroke-width="1.5" fill="#626262"/>
+    </g>
+  </g>
+  <g id="Connector-icxda8da-ko11" transform="translate(-50,-380)">
+    <g id="graphics">
+      <path d="M 215 445 L 290 445 " fill="none" stroke="#626262" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+    <g id="toIcon" transform="translate(290,445) rotate(90)">
+      <metadata id="metadata3057">
+        <aaa:RDF xmlns:aaa="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+      </metadata>
+      <aaa:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" aab:pageopacity="0" aab:pageshadow="2" aab:window-width="1366" aab:window-height="706" id="namedview3053" showgrid="true" aab:zoom="5.6568543" aab:cx="35.742573" aab:cy="39.38026" aab:window-x="-8" aab:window-y="-8" aab:window-maximized="1" aab:current-layer="Layer_1" xmlns:aaa="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:aab="http://www.inkscape.org/namespaces/inkscape"/>
+      <polygon points="0,0 8,8 -8,8 " id="polygon3051" transform="translate(0.00390625,0.71874995)" style="stroke:#626262;fill:#626262;stroke-width:1.5;" stroke="#626262" stroke-width="1.5" fill="#626262"/>
+    </g>
+  </g>
+  <creately-doc sync="false" format-version="1.0" updated-user="Christopher Musselle" owner-name="Christopher Musselle" id="icxd135g" revision="1" projectid="root">
+    <viewHash/>
+    <creator/>
+    <save-comments/>
+    <dtLastEdit/>
+    <resources/>
+    <objects>
+      <object id="icxd2k70-ko4" name="" type="NORMAL" locked="false" visible="true" zorder="1" model-type="NORMAL">
+        <text wrapping="true" text-rotation="NaN" position="CENTRE">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="2" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="20" under-line="false" size="18" italic="false" align="center" kerning="false" left-margin="0" begin-index="0" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content>Cleaning(~!nl!~)&amp;(~!nl!~)Wrangling</content>
+        </text>
+        <group-id/>
+        <kobject-def-id>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <libraries/>
+        <dimension x="290" width="160" y="385" height="115.7" scale-x="1" scale-y="1.2855555555555556" angle="0">
+          <matrix b="0" a="1" tx="0" d="1.2853248119354248" ty="0" c="0"/>
+          <default-bounds x="0" width="160" y="0" height="90"/>
+        </dimension>
+        <children/>
+        <collapse collapsed-y-pos="NaN" collapsed="false" expanded-width="NaN" collapsed-height="NaN" collapsed-width="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" expanded-height="NaN" expanded-x-pos="NaN"/>
+        <data-items>
+          <data-item type="" name="cornerradius" value="40"/>
+          <data-item type="" name="isConnected" value="0"/>
+          <data-item type="" name="DiagramLinkURL" value=""/>
+          <data-item type="" name="notes" value=""/>
+        </data-items>
+        <style fill-gradient="GRADIENT_FILL_SOLID" alpha="1" fill-color="16494426" fill="true" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <container-id/>
+        <comments/>
+      </object>
+      <object id="icxd2omb-ko6" name="" type="NORMAL" locked="false" visible="true" zorder="2" model-type="NORMAL">
+        <text wrapping="true" text-rotation="NaN" position="CENTRE">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="2" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="9" under-line="false" size="18" italic="false" align="center" kerning="false" left-margin="0" begin-index="0" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content>Exploring</content>
+        </text>
+        <group-id/>
+        <kobject-def-id>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <libraries/>
+        <dimension x="530" width="160" y="400" height="90" scale-x="1" scale-y="1" angle="0">
+          <matrix b="0" a="1" tx="0" d="1" ty="0" c="0"/>
+          <default-bounds x="0" width="160" y="0" height="90"/>
+        </dimension>
+        <children/>
+        <collapse collapsed-y-pos="NaN" collapsed="false" expanded-width="NaN" collapsed-height="NaN" collapsed-width="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" expanded-height="NaN" expanded-x-pos="NaN"/>
+        <data-items>
+          <data-item type="" name="cornerradius" value="40"/>
+          <data-item type="" name="isConnected" value="0"/>
+          <data-item type="" name="DiagramLinkURL" value=""/>
+          <data-item type="" name="notes" value=""/>
+        </data-items>
+        <style fill-gradient="GRADIENT_FILL_SOLID" alpha="1" fill-color="16494426" fill="true" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <container-id/>
+        <comments/>
+      </object>
+      <object id="Rounded Rectangle-icxd15w6-ko1" name="" type="NORMAL" locked="false" visible="true" zorder="0" model-type="NORMAL">
+        <text wrapping="true" text-rotation="NaN" position="CENTRE">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="2" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="14" under-line="false" size="18" italic="false" align="center" kerning="false" left-margin="0" begin-index="0" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content>Data Sourcing</content>
+        </text>
+        <group-id/>
+        <kobject-def-id>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <libraries/>
+        <dimension x="55" width="160" y="400" height="90" scale-x="1" scale-y="1" angle="0">
+          <matrix b="0" a="1" tx="0" d="1" ty="0" c="0"/>
+          <default-bounds x="0" width="160" y="0" height="90"/>
+        </dimension>
+        <children/>
+        <collapse collapsed-y-pos="NaN" collapsed="false" expanded-width="NaN" collapsed-height="NaN" collapsed-width="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" expanded-height="NaN" expanded-x-pos="NaN"/>
+        <data-items>
+          <data-item type="" name="cornerradius" value="40"/>
+          <data-item type="" name="isConnected" value="0"/>
+          <data-item type="" name="DiagramLinkURL" value=""/>
+          <data-item type="" name="notes" value=""/>
+        </data-items>
+        <style fill-gradient="GRADIENT_FILL_SOLID" alpha="1" fill-color="16494426" fill="true" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <container-id/>
+        <comments/>
+      </object>
+    </objects>
+    <editHash/>
+    <canvas-width>1500</canvas-width>
+    <published>false</published>
+    <source-tool/>
+    <inSync>false</inSync>
+    <save-type/>
+    <date-updated>Tue Aug 4 2015 02:23:40 PM</date-updated>
+    <description/>
+    <app-version/>
+    <diagramTypeId/>
+    <connectors>
+      <connector id="Connector-icxd2yft-ko9" show-obj-two-img="false" show-obj-one-img="false" end-point-one-y="445" zorder="3" end-point-one-x="450" end-point-two-x="530" bi-directional="false" end-point-two-y="445" model-type="CONNECTOR">
+        <group-id/>
+        <anchorsCustomized>false</anchorsCustomized>
+        <connection-name/>
+        <compatibleConnDefs>
+          <String>Just a line</String>
+        </compatibleConnDefs>
+        <anchor-points/>
+        <connection-desc/>
+        <fromIconSource/>
+        <anchPntIDObjTwo>flowPort_4</anchPntIDObjTwo>
+        <anchPntIDObjOne/>
+        <comments/>
+        <text wrapping="false" text-rotation="NaN" position="CONNECTOR_PATH_CENTER">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content/>
+        </text>
+        <drawStyle>0</drawStyle>
+        <connection-def-id>Just a line</connection-def-id>
+        <toIconSource>ArrowHead1</toIconSource>
+        <object-two-id>icxd2omb-ko6</object-two-id>
+        <object-one-id>icxd2k70-ko4</object-one-id>
+        <text-data-list>
+          <line-text isPrimary="true" position="" id="icxd2yfu-tf3" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="icxd2yfu-tf3" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+        </text-data-list>
+        <isLocked>false</isLocked>
+        <style alpha="NaN" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <ownerDiagID>icxd135g</ownerDiagID>
+        <isVisible>false</isVisible>
+      </connector>
+      <connector id="Connector-icxda8da-ko11" show-obj-two-img="false" show-obj-one-img="false" end-point-one-y="445" zorder="4" end-point-one-x="215" end-point-two-x="290" bi-directional="false" end-point-two-y="445" model-type="CONNECTOR">
+        <group-id/>
+        <anchorsCustomized>false</anchorsCustomized>
+        <connection-name/>
+        <compatibleConnDefs>
+          <String>Just a line</String>
+        </compatibleConnDefs>
+        <anchor-points/>
+        <connection-desc/>
+        <fromIconSource/>
+        <anchPntIDObjTwo>flowPort_4</anchPntIDObjTwo>
+        <anchPntIDObjOne/>
+        <comments/>
+        <text wrapping="false" text-rotation="NaN" position="CONNECTOR_PATH_CENTER">
+          <text-formats>
+            <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+              <target/>
+              <url/>
+            </text-format>
+          </text-formats>
+          <content/>
+        </text>
+        <drawStyle>0</drawStyle>
+        <connection-def-id>Just a line</connection-def-id>
+        <toIconSource>ArrowHead1</toIconSource>
+        <object-two-id>icxd2k70-ko4</object-two-id>
+        <object-one-id>Rounded Rectangle-icxd15w6-ko1</object-one-id>
+        <text-data-list>
+          <line-text isPrimary="true" position="" id="icxda8db-tf5" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+          <line-text isPrimary="true" position="" id="icxda8db-tf5" location="0.5">
+            <text/>
+            <text-formats>
+              <text-format color="0" indent="0" order="0" leading="0" font="Arial" block-indent="0" bullet="false" display="block" letter-spacing="0" end-index="-1" under-line="false" size="12" italic="false" align="center" kerning="false" left-margin="0" begin-index="-1" right-margin="0" bold="false">
+                <target/>
+                <url/>
+              </text-format>
+            </text-formats>
+          </line-text>
+        </text-data-list>
+        <isLocked>false</isLocked>
+        <style alpha="NaN" line-style="" line-thickness="1.5" line-color="6447714"/>
+        <ownerDiagID>icxd135g</ownerDiagID>
+        <isVisible>false</isVisible>
+      </connector>
+    </connectors>
+    <kodefs/>
+    <comments/>
+    <embedHash/>
+    <notes/>
+    <docname>Document 1</docname>
+    <creatorUid>cmusselle</creatorUid>
+    <date-created>Tue Aug 4 2015 02:23:40 PM</date-created>
+    <libraries>
+      <lib-ID>
+        <id>basic</id>
+      </lib-ID>
+    </libraries>
+    <revision-user>cmusselle@mango-solutions.com</revision-user>
+    <koDefIDList>
+      <def-ID>root/abstractShapes/hRoundedRectangle?version=4&amp;author=Cinergix</def-ID>
+      <def-ID>root/abstractShapes?version=1&amp;author=Cinergix</def-ID>
+    </koDefIDList>
+    <canvas-height>1500</canvas-height>
+    <tags/>
+    <revisionUserId>cmusselle</revisionUserId>
+  </creately-doc>
+</svg>
