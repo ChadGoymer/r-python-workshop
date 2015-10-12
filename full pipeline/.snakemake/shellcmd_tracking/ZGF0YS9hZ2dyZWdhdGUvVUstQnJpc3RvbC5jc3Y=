@@ -1,0 +1,1 @@
+python aggregate_all.py data/processed/UK-Bristol--20150701.csv data/processed/UK-Bristol--20150702.csv data/aggregate/UK-Bristol.csv

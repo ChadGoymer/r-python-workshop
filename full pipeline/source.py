@@ -3,7 +3,7 @@ import requests
 import time
 import sys
 
-API_KEY = 'your api key here'
+API_KEY = 'b46469619813af9c'
 
 
 def get_weather(date, location):

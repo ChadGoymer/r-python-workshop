@@ -1,0 +1,1 @@
+Rscript plot_timeseries.R data/aggregate/UK-Bristol.csv plots/UK-Bristol.png

@@ -1,8 +1,6 @@
 # GLOBAL VARIABLES
-LOCATIONS = ["UK-London", "UK-Bristol", "UK-Manchester"]
-
-DATES = ["20150701", "20150702", "20150703", "20150704", "20150705",
-         "20150706", "20150707", "20150708", "20150709", "20150710"]
+LOCATIONS = ["UK-London", "UK-Bristol"]
+DATES = ["20150701", "20150702"]
 
 
 # This is the first rule run
